@@ -1,0 +1,2297 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Las Estrellas">
+    <display-name lang="es">Las Estrellas</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: HBO PLUS SD*">
+    <display-name lang="es">CINEMA: HBO PLUS SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA:HBO 2 SD*">
+    <display-name lang="es">CINEMA:HBO 2 SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: CINEMAX SD*">
+    <display-name lang="es">CINEMA: CINEMAX SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: HBO 1 SD*">
+    <display-name lang="es">CINEMA: HBO 1 SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: HBO Family SD*">
+    <display-name lang="es">CINEMA: HBO Family SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: CINE CANAL SD*">
+    <display-name lang="es">CINEMA: CINE CANAL SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: FOX ACTION SD*">
+    <display-name lang="es">CINEMA: FOX ACTION SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_action-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SERIES: FX Movies SD*">
+    <display-name lang="es">SERIES: FX Movies SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fxm-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: FOX COMEDY SD*">
+    <display-name lang="es">CINEMA: FOX COMEDY SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_comedy-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: HBO XTREAME SD*">
+    <display-name lang="es">CINEMA: HBO XTREAME SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: SPACE SD*">
+    <display-name lang="es">CINEMA: SPACE SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: STUDIO UNIVERSAL SD*">
+    <display-name lang="es">CINEMA: STUDIO UNIVERSAL SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SERIE: AXN SD*">
+    <display-name lang="es">SERIE: AXN SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: AMC SD*">
+    <display-name lang="es">CINEMA: AMC SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: FOX CLASICO SD*">
+    <display-name lang="es">CINEMA: FOX CLASICO SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_premium_classics-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ENTRE: E! SD*">
+    <display-name lang="es">ENTRE: E! SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <display-name lang="es">ENTRETENIMIENTO: FOX LIFE TP MX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_life-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="NIÑOS: Disney XD SD*">
+    <display-name lang="es">NIÑOS: Disney XD SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_xd-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="NIÑOS: Disney SD*">
+    <display-name lang="es">NIÑOS: Disney SD*</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="SERIES: WARNER SD*">
+    <display-name lang="es">SERIES: WARNER SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: FOX FAMILY SD*">
+    <display-name lang="es">CINEMA: FOX FAMILY SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: FOX MOVIES SD*">
+    <display-name lang="es">CINEMA: FOX MOVIES SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: FOX SERIES SD*">
+    <display-name lang="es">CINEMA: FOX SERIES SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: MULTIPREMIER SD*">
+    <display-name lang="es">CINEMA: MULTIPREMIER SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: SYFY*">
+    <display-name lang="es">CINEMA: SYFY*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: TNT SD*">
+    <display-name lang="es">CINEMA: TNT SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CULTURA: ANIMAL PLANET SD*">
+    <display-name lang="es">CULTURA: ANIMAL PLANET SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CULTURA: HISTORY SD*">
+    <display-name lang="es">CULTURA: HISTORY SD*</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CINEMA: HBO MUNDI ">
+    <display-name lang="es">CINEMA: HBO MUNDI</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201214011000 -0600" stop="20201214043000 -0600" channel="Las Estrellas">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214043000 -0600" stop="20201214050000 -0600" channel="Las Estrellas">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214060000 -0600" channel="Las Estrellas">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214063000 -0600" channel="Las Estrellas">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20201214063000 -0600" stop="20201214080000 -0600" channel="Las Estrellas">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214090000 -0600" channel="Las Estrellas">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20201214090000 -0600" stop="20201214120000 -0600" channel="Las Estrellas">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20201214120000 -0600" stop="20201214133000 -0600" channel="Las Estrellas">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20201214133000 -0600" stop="20201214143000 -0600" channel="Las Estrellas">
+    <title lang="es">El Juego de las Estrellas</title>
+  </programme>
+  <programme start="20201214143000 -0600" stop="20201214153000 -0600" channel="Las Estrellas">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20201214153000 -0600" stop="20201214163000 -0600" channel="Las Estrellas">
+    <title lang="es">Quererlo Todo</title>
+  </programme>
+  <programme start="20201214163000 -0600" stop="20201214173000 -0600" channel="Las Estrellas">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20201214173000 -0600" stop="20201214183000 -0600" channel="Las Estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201214183000 -0600" stop="20201214193000 -0600" channel="Las Estrellas">
+    <title lang="es">La Mexicana y el Güero</title>
+  </programme>
+  <programme start="20201214193000 -0600" stop="20201214203000 -0600" channel="Las Estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20201214203000 -0600" stop="20201214213000 -0600" channel="Las Estrellas">
+    <title lang="es">Vencer el Desamor</title>
+  </programme>
+  <programme start="20201214213000 -0600" stop="20201214223000 -0600" channel="Las Estrellas">
+    <title lang="es">Imperio de Mentiras</title>
+  </programme>
+  <programme start="20201214223000 -0600" stop="20201214230000 -0600" channel="Las Estrellas">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20201214230000 -0600" stop="20201214233000 -0600" channel="Las Estrellas">
+    <title lang="es">Mi Querida Herencia</title>
+  </programme>
+  <programme start="20201214233000 -0600" stop="20201215000000 -0600" channel="Las Estrellas">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20201215000000 -0600" stop="20201215010000 -0600" channel="Las Estrellas">
+    <title lang="es">Pare de sufrir</title>
+  </programme>
+  <programme start="20201215010000 -0600" stop="20201215043000 -0600" channel="Las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201215133000 -0600" stop="20201215143000 -0600" channel="Las Estrellas">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20201215153000 -0600" stop="20201215163000 -0600" channel="Las Estrellas">
+    <title lang="es">Quererlo Todo</title>
+  </programme>
+  <programme start="20201215230000 -0600" stop="20201215233000 -0600" channel="Las Estrellas">
+    <title lang="es">Lorenza bebé a bordo</title>
+  </programme>
+  <programme start="20201214012000 -0600" stop="20201214030000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Viene de Noche</title>
+  </programme>
+  <programme start="20201214030000 -0600" stop="20201214045500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">La célula</title>
+  </programme>
+  <programme start="20201214045500 -0600" stop="20201214064500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">La Reina de los condenados</title>
+  </programme>
+  <programme start="20201214064500 -0600" stop="20201214075000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Pete Holmes caras y sonidos</title>
+  </programme>
+  <programme start="20201214075000 -0600" stop="20201214095000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20201214095000 -0600" stop="20201214121000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Animales Fantásticos: Los Crímenes de Grindelwald</title>
+  </programme>
+  <programme start="20201214121000 -0600" stop="20201214141000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Scott Pilgrim y los ex de la chica de sus sueños</title>
+  </programme>
+  <programme start="20201214141000 -0600" stop="20201214161500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">El libro de los secretos</title>
+  </programme>
+  <programme start="20201214161500 -0600" stop="20201214175000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Ultravioleta</title>
+  </programme>
+  <programme start="20201214175000 -0600" stop="20201214194000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Slaughterhouse escuela sangrienta</title>
+  </programme>
+  <programme start="20201214194000 -0600" stop="20201214220000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Animales Fantásticos: Los Crímenes de Grindelwald</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214234500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Feliz Día de tu Muerte 2</title>
+  </programme>
+  <programme start="20201214234500 -0600" stop="20201215013000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Escape Room: Sin Salida</title>
+  </programme>
+  <programme start="20201215234500 -0600" stop="20201216013000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Escape Room: Sin Salida</title>
+  </programme>
+  <programme start="20201216013000 -0600" stop="20201216031000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Pesadilla en la calle Elm</title>
+  </programme>
+  <programme start="20201216031000 -0600" stop="20201216044000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">El hijo de Chucky</title>
+  </programme>
+  <programme start="20201216044000 -0600" stop="20201216061500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Rescate explosivo</title>
+  </programme>
+  <programme start="20201216061500 -0600" stop="20201216080500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Analízame</title>
+  </programme>
+  <programme start="20201216080500 -0600" stop="20201216095000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Analízate</title>
+  </programme>
+  <programme start="20201216095000 -0600" stop="20201216112500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Locos por los votos</title>
+  </programme>
+  <programme start="20201216112500 -0600" stop="20201216135500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Aquaman</title>
+  </programme>
+  <programme start="20201216135500 -0600" stop="20201216152000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Batman Hush</title>
+  </programme>
+  <programme start="20201216152000 -0600" stop="20201216173500 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20201216173500 -0600" stop="20201216195000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Batman regresa</title>
+  </programme>
+  <programme start="20201216195000 -0600" stop="20201216220000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Batman eternamente</title>
+  </programme>
+  <programme start="20201216220000 -0600" stop="20201217003000 -0600" channel="CINEMA: HBO PLUS SD*">
+    <title lang="es">Aquaman</title>
+  </programme>
+  <programme start="20201214001000 -0600" stop="20201214020000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Matar o morir</title>
+  </programme>
+  <programme start="20201214020000 -0600" stop="20201214042500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Comer, Rezar, Amar</title>
+  </programme>
+  <programme start="20201214042500 -0600" stop="20201214070000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">El Jilguero</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214091500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Blanca Nieves y El Cazador</title>
+  </programme>
+  <programme start="20201214091500 -0600" stop="20201214113500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Godzilla II</title>
+  </programme>
+  <programme start="20201214113500 -0600" stop="20201214125500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Complejo de Dios</title>
+  </programme>
+  <programme start="20201214125500 -0600" stop="20201214151000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Spider-Man: Lejos de Casa</title>
+  </programme>
+  <programme start="20201214151000 -0600" stop="20201214180500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">It: Capítulo dos</title>
+  </programme>
+  <programme start="20201214180500 -0600" stop="20201214200000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Aves de presa</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214210000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Industry</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214224000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">La maldición de la llorona</title>
+  </programme>
+  <programme start="20201214224000 -0600" stop="20201215004000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">1917</title>
+  </programme>
+  <programme start="20201215004000 -0600" stop="20201215025500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Spider-Man: Lejos de Casa</title>
+  </programme>
+  <programme start="20201215025500 -0600" stop="20201215045500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">La mula</title>
+  </programme>
+  <programme start="20201215045500 -0600" stop="20201215062500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Antes del atardecer</title>
+  </programme>
+  <programme start="20201215062500 -0600" stop="20201215081000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">De noche con Kate</title>
+  </programme>
+  <programme start="20201215081000 -0600" stop="20201215100500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Pequeña... otra vez</title>
+  </programme>
+  <programme start="20201215100500 -0600" stop="20201215121000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Como Novio de Pueblo</title>
+  </programme>
+  <programme start="20201215121000 -0600" stop="20201215141000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Loco y estupido amor</title>
+  </programme>
+  <programme start="20201215141000 -0600" stop="20201215155500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Pokémon Detective Pikachu</title>
+  </programme>
+  <programme start="20201215155500 -0600" stop="20201215174500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Jefa por Accidente</title>
+  </programme>
+  <programme start="20201215174500 -0600" stop="20201215184500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Dime quién soy</title>
+  </programme>
+  <programme start="20201215184500 -0600" stop="20201215210000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Green Book Una amistad sin</title>
+  </programme>
+  <programme start="20201215210000 -0600" stop="20201215220000 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">La materia oscura</title>
+  </programme>
+  <programme start="20201215220000 -0600" stop="20201216001500 -0600" channel="CINEMA:HBO 2 SD*">
+    <title lang="es">Shazam</title>
+  </programme>
+  <programme start="20201214002000 -0600" stop="20201214023500 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Todo está perdido</title>
+  </programme>
+  <programme start="20201214023500 -0600" stop="20201214050000 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">EDTV</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214063600 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Antz - Hormiguitaz</title>
+  </programme>
+  <programme start="20201214063600 -0600" stop="20201214081600 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Mi papá es un gato</title>
+  </programme>
+  <programme start="20201214081600 -0600" stop="20201214104400 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Batman</title>
+  </programme>
+  <programme start="20201214104400 -0600" stop="20201214130100 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Rápido y Furioso</title>
+  </programme>
+  <programme start="20201214130100 -0600" stop="20201214154600 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Red de mentiras</title>
+  </programme>
+  <programme start="20201214154600 -0600" stop="20201214174300 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20201214174300 -0600" stop="20201214200000 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Rápido y Furioso</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214223900 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Los indestructibles 3</title>
+  </programme>
+  <programme start="20201214223900 -0600" stop="20201215005100 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Linea de fuego</title>
+  </programme>
+  <programme start="20201215223900 -0600" stop="20201216005100 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Linea de fuego</title>
+  </programme>
+  <programme start="20201216005100 -0600" stop="20201216031600 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Simplemente</title>
+  </programme>
+  <programme start="20201216031600 -0600" stop="20201216050400 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Ratchet y Clank</title>
+  </programme>
+  <programme start="20201216050400 -0600" stop="20201216063800 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Scooby-Doo y la maldición del 13vo fantasma</title>
+  </programme>
+  <programme start="20201216063800 -0600" stop="20201216084000 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Mamma Mia</title>
+  </programme>
+  <programme start="20201216084000 -0600" stop="20201216111100 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">El dilema</title>
+  </programme>
+  <programme start="20201216111100 -0600" stop="20201216135100 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">La Era del Rock</title>
+  </programme>
+  <programme start="20201216135100 -0600" stop="20201216155000 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Regreso del todopoderoso</title>
+  </programme>
+  <programme start="20201216155000 -0600" stop="20201216175000 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Música, amigos y fiesta</title>
+  </programme>
+  <programme start="20201216175000 -0600" stop="20201216200000 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">El club de las madres rebeldes</title>
+  </programme>
+  <programme start="20201216200000 -0600" stop="20201216220600 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Mi Abuelo es un Peligro</title>
+  </programme>
+  <programme start="20201216220600 -0600" stop="20201217000600 -0600" channel="CINEMA: CINEMAX SD*">
+    <title lang="es">Regreso del todopoderoso</title>
+  </programme>
+  <programme start="20201214001500 -0600" stop="20201214020500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Pokémon Detective Pikachu</title>
+  </programme>
+  <programme start="20201214020500 -0600" stop="20201214030500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Dime quién soy</title>
+  </programme>
+  <programme start="20201214030500 -0600" stop="20201214051000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">La Mula (2018)</title>
+  </programme>
+  <programme start="20201214051000 -0600" stop="20201214072500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">A Él No Le Gustas Tanto</title>
+  </programme>
+  <programme start="20201214072500 -0600" stop="20201214092000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Cats (2019)</title>
+  </programme>
+  <programme start="20201214092000 -0600" stop="20201214115500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Harry Potter y las Reliquias de la Muerte</title>
+  </programme>
+  <programme start="20201214115500 -0600" stop="20201214141500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Harry Potter y las reliquias de la muerte - Parte 2</title>
+  </programme>
+  <programme start="20201214141500 -0600" stop="20201214160000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Angry Birds 2: La película</title>
+  </programme>
+  <programme start="20201214160000 -0600" stop="20201214170000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">His Dark Materials</title>
+  </programme>
+  <programme start="20201214170000 -0600" stop="20201214185000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Last Christmas: Otra Oportunidad para Amar</title>
+  </programme>
+  <programme start="20201214185000 -0600" stop="20201214192500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Foodie Love</title>
+  </programme>
+  <programme start="20201214192500 -0600" stop="20201214210000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">La Vida Secreta de tus Mascotas 2</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214220000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">His Dark Materials</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214230000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Industry</title>
+  </programme>
+  <programme start="20201214230000 -0600" stop="20201214233000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Axios</title>
+  </programme>
+  <programme start="20201214233000 -0600" stop="20201215021500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Había una vez en Hollywood</title>
+  </programme>
+  <programme start="20201215021500 -0600" stop="20201215031500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">His Dark Materials</title>
+  </programme>
+  <programme start="20201215031500 -0600" stop="20201215050500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Intruso</title>
+  </programme>
+  <programme start="20201215050500 -0600" stop="20201215061500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Lil Rel Howery: Live in Crenshaw</title>
+  </programme>
+  <programme start="20201215061500 -0600" stop="20201215082500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Bad Boys Para Siempre</title>
+  </programme>
+  <programme start="20201215082500 -0600" stop="20201215095500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">El misterio de D.B. Cooper</title>
+  </programme>
+  <programme start="20201215095500 -0600" stop="20201215114000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Un Amigo Abominable</title>
+  </programme>
+  <programme start="20201215114000 -0600" stop="20201215135000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+  </programme>
+  <programme start="20201215135000 -0600" stop="20201215142500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Foodie Love</title>
+  </programme>
+  <programme start="20201215142500 -0600" stop="20201215160500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">La maldición renace</title>
+  </programme>
+  <programme start="20201215160500 -0600" stop="20201215175500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20201215175500 -0600" stop="20201215195000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201215195000 -0600" stop="20201215220000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Bad Boys Para Siempre</title>
+  </programme>
+  <programme start="20201215220000 -0600" stop="20201215233000 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">La serpiente de Alabama</title>
+  </programme>
+  <programme start="20201215233000 -0600" stop="20201216013500 -0600" channel="CINEMA: HBO 1 SD*">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+  </programme>
+  <programme start="20201214005700 -0600" stop="20201214022800 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Darrow y Darrow</title>
+  </programme>
+  <programme start="20201214022800 -0600" stop="20201214040100 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Holmes y Watson...elemental</title>
+  </programme>
+  <programme start="20201214040100 -0600" stop="20201214062600 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">El regreso del Capitán Garfio</title>
+  </programme>
+  <programme start="20201214062600 -0600" stop="20201214081900 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Happy Feet El pingüino</title>
+  </programme>
+  <programme start="20201214081900 -0600" stop="20201214095000 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">UglyDolls</title>
+  </programme>
+  <programme start="20201214095000 -0600" stop="20201214112300 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Operación Escape</title>
+  </programme>
+  <programme start="20201214112300 -0600" stop="20201214125400 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Como perros y gatos</title>
+  </programme>
+  <programme start="20201214125400 -0600" stop="20201214142600 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Encontrando la navidad</title>
+  </programme>
+  <programme start="20201214142600 -0600" stop="20201214160200 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Licencia para casarse</title>
+  </programme>
+  <programme start="20201214160200 -0600" stop="20201214172900 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Una pizca de romance</title>
+  </programme>
+  <programme start="20201214172900 -0600" stop="20201214190000 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">UglyDolls</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214203200 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Encontrando la navidad</title>
+  </programme>
+  <programme start="20201214203200 -0600" stop="20201214223700 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">El Espacio Entre Nosotros</title>
+  </programme>
+  <programme start="20201214223700 -0600" stop="20201215001700 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">La guardería del abuelo</title>
+  </programme>
+  <programme start="20201215001700 -0600" stop="20201215015200 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Licencia para casarse</title>
+  </programme>
+  <programme start="20201215015200 -0600" stop="20201215032400 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Encontrando la navidad</title>
+  </programme>
+  <programme start="20201215032400 -0600" stop="20201215045000 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Una pizca de romance</title>
+  </programme>
+  <programme start="20201215045000 -0600" stop="20201215062200 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Belleza negra</title>
+  </programme>
+  <programme start="20201215062200 -0600" stop="20201215080500 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Mi Perro Skip</title>
+  </programme>
+  <programme start="20201215080500 -0600" stop="20201215100000 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Liberen a Willy</title>
+  </programme>
+  <programme start="20201215100000 -0600" stop="20201215114100 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Liberen a Willy 2</title>
+  </programme>
+  <programme start="20201215114100 -0600" stop="20201215132000 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Gritando y pateando</title>
+  </programme>
+  <programme start="20201215132000 -0600" stop="20201215145500 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Los peores años de mi vida</title>
+  </programme>
+  <programme start="20201215145500 -0600" stop="20201215171500 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Meteoro la película</title>
+  </programme>
+  <programme start="20201215171500 -0600" stop="20201215190000 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Los futbolísimos</title>
+  </programme>
+  <programme start="20201215190000 -0600" stop="20201215204900 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20201215204900 -0600" stop="20201215230300 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Tan fuerte y tan cerca</title>
+  </programme>
+  <programme start="20201215230300 -0600" stop="20201216004000 -0600" channel="CINEMA: HBO Family SD*">
+    <title lang="es">Gritando y pateando</title>
+  </programme>
+  <programme start="20201214010800 -0600" stop="20201214025700 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">T2 Trainspotting: La Vida en el Abismo</title>
+  </programme>
+  <programme start="20201214025700 -0600" stop="20201214060000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Nicholas Nickleby</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214063000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214063000 -0600" stop="20201214070000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214073000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214073000 -0600" stop="20201214080000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214083000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214083000 -0600" stop="20201214090000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214090000 -0600" stop="20201214093000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214093000 -0600" stop="20201214101500 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201214101500 -0600" stop="20201214132500 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Parque Mágico</title>
+  </programme>
+  <programme start="20201214132500 -0600" stop="20201214151000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Open season scared silly</title>
+  </programme>
+  <programme start="20201214151000 -0600" stop="20201214164000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Kung Fu Panda 2</title>
+  </programme>
+  <programme start="20201214164000 -0600" stop="20201214183500 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Tortugas Ninja (2014)</title>
+  </programme>
+  <programme start="20201214183500 -0600" stop="20201214210000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">La batalla de Riddick</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214232000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20201214232000 -0600" stop="20201215012000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Cementerio Maldito (2019)</title>
+  </programme>
+  <programme start="20201215232000 -0600" stop="20201216012000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Cementerio Maldito (2019)</title>
+  </programme>
+  <programme start="20201216012000 -0600" stop="20201216025300 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Born to Be Blue: La historia de Chet Baker</title>
+  </programme>
+  <programme start="20201216025300 -0600" stop="20201216042000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Mi novio es un zombie</title>
+  </programme>
+  <programme start="20201216042000 -0600" stop="20201216060000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Una aerolínea de Soul</title>
+  </programme>
+  <programme start="20201216060000 -0600" stop="20201216063000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216063000 -0600" stop="20201216070000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216070000 -0600" stop="20201216073000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216073000 -0600" stop="20201216080000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216080000 -0600" stop="20201216083000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216083000 -0600" stop="20201216090000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216090000 -0600" stop="20201216093000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216093000 -0600" stop="20201216101000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20201216101000 -0600" stop="20201216125000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Christmas at Grand Valley</title>
+  </programme>
+  <programme start="20201216125000 -0600" stop="20201216144500 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20201216144500 -0600" stop="20201216163000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Madagascar 2 Escape a África</title>
+  </programme>
+  <programme start="20201216163000 -0600" stop="20201216180500 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Madagascar 3: Los fugitivos</title>
+  </programme>
+  <programme start="20201216180500 -0600" stop="20201216210000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Divergente</title>
+  </programme>
+  <programme start="20201216210000 -0600" stop="20201216231500 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Bumblebee</title>
+  </programme>
+  <programme start="20201216231500 -0600" stop="20201217011000 -0600" channel="CINEMA: CINE CANAL SD*">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20201214014500 -0600" stop="20201214032300 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Eliminar Amigo 2</title>
+  </programme>
+  <programme start="20201214032300 -0600" stop="20201214044500 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Muerte en el camino</title>
+  </programme>
+  <programme start="20201214044500 -0600" stop="20201214061900 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Aullido: El Renacimiento</title>
+  </programme>
+  <programme start="20201214061900 -0600" stop="20201214080400 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Escupiré sobre tu tumba 2</title>
+  </programme>
+  <programme start="20201214080400 -0600" stop="20201214093100 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">1000 Cuerpos</title>
+  </programme>
+  <programme start="20201214093100 -0600" stop="20201214111900 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Nada es lo que parece</title>
+  </programme>
+  <programme start="20201214111900 -0600" stop="20201214131900 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Mandy</title>
+  </programme>
+  <programme start="20201214131900 -0600" stop="20201214150100 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Abraham Lincoln Cazador</title>
+  </programme>
+  <programme start="20201214150100 -0600" stop="20201214170700 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Star Trek: En la Oscuridad</title>
+  </programme>
+  <programme start="20201214170700 -0600" stop="20201214190000 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Bumblebee</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214204600 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Siniestro</title>
+  </programme>
+  <programme start="20201214204600 -0600" stop="20201214220800 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">12 Horas para Sobrevivir</title>
+  </programme>
+  <programme start="20201214220800 -0600" stop="20201214233400 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Infierno en la Tormenta</title>
+  </programme>
+  <programme start="20201214233400 -0600" stop="20201215011900 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Nación Asesina</title>
+  </programme>
+  <programme start="20201215011900 -0600" stop="20201215030000 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Hackers</title>
+  </programme>
+  <programme start="20201215030000 -0600" stop="20201215050000 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Práctica 1 GP de ABU Dhabi</title>
+  </programme>
+  <programme start="20201215050000 -0600" stop="20201215063700 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">GRAN PREMIO DE SAKHIR</title>
+  </programme>
+  <programme start="20201215063700 -0600" stop="20201215070000 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">GP1 2020</title>
+  </programme>
+  <programme start="20201215070000 -0600" stop="20201215090000 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Práctica 2 GP de ABU Dhabi</title>
+  </programme>
+  <programme start="20201215090000 -0600" stop="20201215110700 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Jack Reacher</title>
+  </programme>
+  <programme start="20201215110700 -0600" stop="20201215123800 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Ghost Rider Espíritu de</title>
+  </programme>
+  <programme start="20201215123800 -0600" stop="20201215143300 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Brigada A: Los magníficos</title>
+  </programme>
+  <programme start="20201215143300 -0600" stop="20201215163500 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Sangre, sudor y gloria</title>
+  </programme>
+  <programme start="20201215163500 -0600" stop="20201215185000 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Hulk</title>
+  </programme>
+  <programme start="20201215185000 -0600" stop="20201215203700 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">El increíble Hulk</title>
+  </programme>
+  <programme start="20201215203700 -0600" stop="20201215223600 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20201215223600 -0600" stop="20201216000800 -0600" channel="CINEMA: FOX ACTION SD*">
+    <title lang="es">12 Horas para Sobrevivir</title>
+  </programme>
+  <programme start="20201214005000 -0600" stop="20201214024300 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Inframundo La evolución</title>
+  </programme>
+  <programme start="20201214024300 -0600" stop="20201214042000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">El último centinela</title>
+  </programme>
+  <programme start="20201214042000 -0600" stop="20201214055600 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">La encrucijada de Criss</title>
+  </programme>
+  <programme start="20201214055600 -0600" stop="20201214075500 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201214075500 -0600" stop="20201214094800 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">La extraña pareja otra vez</title>
+  </programme>
+  <programme start="20201214094800 -0600" stop="20201214113600 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Simbad La Leyenda, 7 Mares</title>
+  </programme>
+  <programme start="20201214113600 -0600" stop="20201214133000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Amor por locura</title>
+  </programme>
+  <programme start="20201214133000 -0600" stop="20201214150900 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Beethoven</title>
+  </programme>
+  <programme start="20201214150900 -0600" stop="20201214171200 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Sahara</title>
+  </programme>
+  <programme start="20201214171200 -0600" stop="20201214185600 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Cuenta Conmigo</title>
+  </programme>
+  <programme start="20201214185600 -0600" stop="20201214210000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Top Gun</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214225600 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">La muerte le sienta bien</title>
+  </programme>
+  <programme start="20201214225600 -0600" stop="20201215010000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Sé lo que hicieron el verano</title>
+  </programme>
+  <programme start="20201215225600 -0600" stop="20201216010000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Sé lo que hicieron el verano</title>
+  </programme>
+  <programme start="20201216010000 -0600" stop="20201216023500 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Debajo</title>
+  </programme>
+  <programme start="20201216023500 -0600" stop="20201216044000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Zatoichi</title>
+  </programme>
+  <programme start="20201216044000 -0600" stop="20201216075500 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Jefe de estado</title>
+  </programme>
+  <programme start="20201216075500 -0600" stop="20201216100000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Una sonrisa como la tuya</title>
+  </programme>
+  <programme start="20201216100000 -0600" stop="20201216122000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">La cena de los tontos</title>
+  </programme>
+  <programme start="20201216122000 -0600" stop="20201216143000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Top Gun</title>
+  </programme>
+  <programme start="20201216143000 -0600" stop="20201216170000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Marea de fuego</title>
+  </programme>
+  <programme start="20201216170000 -0600" stop="20201216190000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Masacre en la cárcel 13</title>
+  </programme>
+  <programme start="20201216190000 -0600" stop="20201216210000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20201216210000 -0600" stop="20201216224000 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">El fin de los tiempos</title>
+  </programme>
+  <programme start="20201216224000 -0600" stop="20201217004500 -0600" channel="SERIES: FX Movies SD*">
+    <title lang="es">Scream Vigila quién Llama</title>
+  </programme>
+  <programme start="20201214004300 -0600" stop="20201214023000 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Verano en Staten Island</title>
+  </programme>
+  <programme start="20201214023000 -0600" stop="20201214025300 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20201214025300 -0600" stop="20201214030800 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20201214030800 -0600" stop="20201214043700 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">El Regreso del Héroe</title>
+  </programme>
+  <programme start="20201214043700 -0600" stop="20201214061200 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Team America</title>
+  </programme>
+  <programme start="20201214061200 -0600" stop="20201214075600 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Fin de semana en familia</title>
+  </programme>
+  <programme start="20201214075600 -0600" stop="20201214092100 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Pride, Prejudice and Mistletoe</title>
+  </programme>
+  <programme start="20201214092100 -0600" stop="20201214110300 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">El arte de la seducción</title>
+  </programme>
+  <programme start="20201214110300 -0600" stop="20201214122300 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">30 y Viviendo en Casa</title>
+  </programme>
+  <programme start="20201214122300 -0600" stop="20201214135200 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20201214135200 -0600" stop="20201214151100 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Otra ridícula película de</title>
+  </programme>
+  <programme start="20201214151100 -0600" stop="20201214173200 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Mentiras Verdaderas</title>
+  </programme>
+  <programme start="20201214173200 -0600" stop="20201214190000 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Sobreviviendo a la Navidad</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214204700 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20201214204700 -0600" stop="20201214223000 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">¿Bailamos</title>
+  </programme>
+  <programme start="20201214223000 -0600" stop="20201215020700 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Hijos de padres separados</title>
+  </programme>
+  <programme start="20201215020700 -0600" stop="20201215031000 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Yo, Mi mujer y Mi mujer muerta</title>
+  </programme>
+  <programme start="20201215031000 -0600" stop="20201215043600 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">American Summer</title>
+  </programme>
+  <programme start="20201215043600 -0600" stop="20201215055500 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Reno 911! Miami</title>
+  </programme>
+  <programme start="20201215055500 -0600" stop="20201215071800 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Ass Backwards</title>
+  </programme>
+  <programme start="20201215071800 -0600" stop="20201215091500 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">El Hombre que Mató a Don Q</title>
+  </programme>
+  <programme start="20201215091500 -0600" stop="20201215105100 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Mi novio es un zombie</title>
+  </programme>
+  <programme start="20201215105100 -0600" stop="20201215121900 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Grounded for Christmas</title>
+  </programme>
+  <programme start="20201215121900 -0600" stop="20201215134500 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Wedding March 5 My Boyfriend</title>
+  </programme>
+  <programme start="20201215134500 -0600" stop="20201215154000 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Más sabe el Diablo por Viejo</title>
+  </programme>
+  <programme start="20201215154000 -0600" stop="20201215171400 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Mi super ex-novia</title>
+  </programme>
+  <programme start="20201215171400 -0600" stop="20201215190000 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Mi abuela es un peligro 3</title>
+  </programme>
+  <programme start="20201215190000 -0600" stop="20201215204800 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">27 Bodas</title>
+  </programme>
+  <programme start="20201215204800 -0600" stop="20201215222200 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Mi vida en ruinas</title>
+  </programme>
+  <programme start="20201215222200 -0600" stop="20201216000800 -0600" channel="CINEMA: FOX COMEDY SD*">
+    <title lang="es">Amor sin escalas</title>
+  </programme>
+  <programme start="20201214021500 -0600" stop="20201214034500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">El juego mortal</title>
+  </programme>
+  <programme start="20201214034500 -0600" stop="20201214052000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">La noche de los muertos</title>
+  </programme>
+  <programme start="20201214052000 -0600" stop="20201214071000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">High &amp; mighty</title>
+  </programme>
+  <programme start="20201214071000 -0600" stop="20201214085500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Entre besos y tiros</title>
+  </programme>
+  <programme start="20201214085500 -0600" stop="20201214104000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">El Rey Escorpión 5</title>
+  </programme>
+  <programme start="20201214104000 -0600" stop="20201214123500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">8 mile Calle de las ilusiones</title>
+  </programme>
+  <programme start="20201214123500 -0600" stop="20201214143500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">El Juego de Ender</title>
+  </programme>
+  <programme start="20201214143500 -0600" stop="20201214165000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Battleship Batalla Naval</title>
+  </programme>
+  <programme start="20201214165000 -0600" stop="20201214184000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20201214184000 -0600" stop="20201214202000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Venganza Letal (Faster)</title>
+  </programme>
+  <programme start="20201214202000 -0600" stop="20201214220500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Marea de fuego 2</title>
+  </programme>
+  <programme start="20201214220500 -0600" stop="20201215002500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Museum</title>
+  </programme>
+  <programme start="20201215002500 -0600" stop="20201215015500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">La Aparición</title>
+  </programme>
+  <programme start="20201215015500 -0600" stop="20201215034500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Robando vidas</title>
+  </programme>
+  <programme start="20201215034500 -0600" stop="20201215055500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Camino sin retorno</title>
+  </programme>
+  <programme start="20201215055500 -0600" stop="20201215075000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">La leyenda del luchador</title>
+  </programme>
+  <programme start="20201215075000 -0600" stop="20201215105000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Casino</title>
+  </programme>
+  <programme start="20201215105000 -0600" stop="20201215124000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Machete</title>
+  </programme>
+  <programme start="20201215124000 -0600" stop="20201215144500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">El Hombre Más Buscado</title>
+  </programme>
+  <programme start="20201215144500 -0600" stop="20201215165000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Hot Fuzz Súper policías</title>
+  </programme>
+  <programme start="20201215165000 -0600" stop="20201215185000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">In/mortal</title>
+  </programme>
+  <programme start="20201215185000 -0600" stop="20201215211500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Apuesta Maestra</title>
+  </programme>
+  <programme start="20201215211500 -0600" stop="20201215230500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">El club de los jóvenes</title>
+  </programme>
+  <programme start="20201215230500 -0600" stop="20201215235500 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Strike back</title>
+  </programme>
+  <programme start="20201215235500 -0600" stop="20201216013000 -0600" channel="CINEMA: HBO XTREAME SD*">
+    <title lang="es">Jason Condenado al Infierno</title>
+  </programme>
+  <programme start="20201214003600 -0600" stop="20201214020700 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Lucy</title>
+  </programme>
+  <programme start="20201214020700 -0600" stop="20201214044000 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">The raid 2</title>
+  </programme>
+  <programme start="20201214044000 -0600" stop="20201214060000 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Los chicos del maíz Génesis</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214061800 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20201214061800 -0600" stop="20201214082300 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Punto límite</title>
+  </programme>
+  <programme start="20201214082300 -0600" stop="20201214100100 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">El máximo juego</title>
+  </programme>
+  <programme start="20201214100100 -0600" stop="20201214113200 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">En el Tornado</title>
+  </programme>
+  <programme start="20201214113200 -0600" stop="20201214133600 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">15 minutos</title>
+  </programme>
+  <programme start="20201214133600 -0600" stop="20201214152700 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Rendirse jamás 2</title>
+  </programme>
+  <programme start="20201214152700 -0600" stop="20201214171900 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Rompiendo Las Reglas 3</title>
+  </programme>
+  <programme start="20201214171900 -0600" stop="20201214192600 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Maximo riesgo</title>
+  </programme>
+  <programme start="20201214192600 -0600" stop="20201214223000 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Batman v Superman: Dawn of Justice</title>
+  </programme>
+  <programme start="20201214223000 -0600" stop="20201215012100 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Superman regresa</title>
+  </programme>
+  <programme start="20201215223000 -0600" stop="20201216012100 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Superman regresa</title>
+  </programme>
+  <programme start="20201216012100 -0600" stop="20201216025100 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">AEW All Elite Wrestling</title>
+  </programme>
+  <programme start="20201216025100 -0600" stop="20201216042900 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Predestinación</title>
+  </programme>
+  <programme start="20201216042900 -0600" stop="20201216060000 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Inframundo: El despertar</title>
+  </programme>
+  <programme start="20201216060000 -0600" stop="20201216061500 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20201216061500 -0600" stop="20201216081900 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">15 minutos</title>
+  </programme>
+  <programme start="20201216081900 -0600" stop="20201216100400 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Rendirse jamás 2</title>
+  </programme>
+  <programme start="20201216100400 -0600" stop="20201216115200 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Rompiendo Las Reglas 3</title>
+  </programme>
+  <programme start="20201216115200 -0600" stop="20201216135600 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Alguien Sabe Demasiado</title>
+  </programme>
+  <programme start="20201216135600 -0600" stop="20201216153600 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20201216153600 -0600" stop="20201216181900 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Enemigos Públicos</title>
+  </programme>
+  <programme start="20201216181900 -0600" stop="20201216202000 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">La chica de la capa roja</title>
+  </programme>
+  <programme start="20201216202000 -0600" stop="20201216223000 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">El cazador y la reina del</title>
+  </programme>
+  <programme start="20201216223000 -0600" stop="20201217002300 -0600" channel="CINEMA: SPACE SD*">
+    <title lang="es">Predestinación</title>
+  </programme>
+  <programme start="20201214011500 -0600" stop="20201214025000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Romance de Nieve</title>
+  </programme>
+  <programme start="20201214025000 -0600" stop="20201214043000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Confesiones de Navidad</title>
+  </programme>
+  <programme start="20201214043000 -0600" stop="20201214060000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">El desfile navideño</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214065000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Close Up with the Hollywood</title>
+  </programme>
+  <programme start="20201214065000 -0600" stop="20201214073500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Close Up with the Hollywood</title>
+  </programme>
+  <programme start="20201214073500 -0600" stop="20201214092500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Una Canción para Navidad</title>
+  </programme>
+  <programme start="20201214092500 -0600" stop="20201214111000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Operación Navidad</title>
+  </programme>
+  <programme start="20201214111000 -0600" stop="20201214125500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">La navidad de una adicta</title>
+  </programme>
+  <programme start="20201214125500 -0600" stop="20201214144500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Confesiones de Navidad</title>
+  </programme>
+  <programme start="20201214144500 -0600" stop="20201214163000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">El desfile navideño</title>
+  </programme>
+  <programme start="20201214163000 -0600" stop="20201214181500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">La Navidad perfecta</title>
+  </programme>
+  <programme start="20201214181500 -0600" stop="20201214200000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Corazones de Navidad</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214214500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Encuentro de Navidad</title>
+  </programme>
+  <programme start="20201214214500 -0600" stop="20201214233500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">12 Días de regalos</title>
+  </programme>
+  <programme start="20201214233500 -0600" stop="20201215012000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Intercambio navideño</title>
+  </programme>
+  <programme start="20201215233500 -0600" stop="20201216012000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Intercambio navideño</title>
+  </programme>
+  <programme start="20201216012000 -0600" stop="20201216030500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">El tren navideño</title>
+  </programme>
+  <programme start="20201216030500 -0600" stop="20201216043500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Una Navidad para recordar</title>
+  </programme>
+  <programme start="20201216043500 -0600" stop="20201216060000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Villancicos a toda hora</title>
+  </programme>
+  <programme start="20201216060000 -0600" stop="20201216061500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Close Up with the Hollywood</title>
+  </programme>
+  <programme start="20201216061500 -0600" stop="20201216063000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Close Up with the Hollywood</title>
+  </programme>
+  <programme start="20201216063000 -0600" stop="20201216071500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Close Up with the Hollywood</title>
+  </programme>
+  <programme start="20201216071500 -0600" stop="20201216090500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">El desfile navideño</title>
+  </programme>
+  <programme start="20201216090500 -0600" stop="20201216105000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Intercambio navideño</title>
+  </programme>
+  <programme start="20201216105000 -0600" stop="20201216124500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Lo que quiero para navidad</title>
+  </programme>
+  <programme start="20201216124500 -0600" stop="20201216143500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Una Navidad para recordar</title>
+  </programme>
+  <programme start="20201216143500 -0600" stop="20201216162000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Villancicos a toda hora</title>
+  </programme>
+  <programme start="20201216162000 -0600" stop="20201216181000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Navidad en Holly Lane</title>
+  </programme>
+  <programme start="20201216181000 -0600" stop="20201216200000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Una Canción para Navidad</title>
+  </programme>
+  <programme start="20201216200000 -0600" stop="20201216214500 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">La navidad más dulce</title>
+  </programme>
+  <programme start="20201216214500 -0600" stop="20201216233000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">Poinsetias Para Navidad</title>
+  </programme>
+  <programme start="20201216233000 -0600" stop="20201217011000 -0600" channel="CINEMA: STUDIO UNIVERSAL SD*">
+    <title lang="es">La Navidad perfecta</title>
+  </programme>
+  <programme start="20201214011500 -0600" stop="20201214021500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201214021500 -0600" stop="20201214031500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20201214031500 -0600" stop="20201214041500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201214041500 -0600" stop="20201214050500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201214050500 -0600" stop="20201214060000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214070000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214080000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214090000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201214090000 -0600" stop="20201214100000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20201214100000 -0600" stop="20201214105500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20201214105500 -0600" stop="20201214115000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201214115000 -0600" stop="20201214124500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201214124500 -0600" stop="20201214134000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201214134000 -0600" stop="20201214143500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20201214143500 -0600" stop="20201214153000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201214153000 -0600" stop="20201214162500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20201214162500 -0600" stop="20201214172000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20201214172000 -0600" stop="20201214181000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201214181000 -0600" stop="20201214190000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214195500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201214195500 -0600" stop="20201214210000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214220000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214225500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201214225500 -0600" stop="20201214235000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20201214235000 -0600" stop="20201215004500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201215235000 -0600" stop="20201216004500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201216004500 -0600" stop="20201216013500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201216013500 -0600" stop="20201216022500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20201216022500 -0600" stop="20201216032500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20201216032500 -0600" stop="20201216041500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216041500 -0600" stop="20201216050500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216050500 -0600" stop="20201216060000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216060000 -0600" stop="20201216070000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216070000 -0600" stop="20201216080000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216080000 -0600" stop="20201216090000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216090000 -0600" stop="20201216100000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20201216100000 -0600" stop="20201216105500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20201216105500 -0600" stop="20201216115000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201216115000 -0600" stop="20201216124500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216124500 -0600" stop="20201216134000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216134000 -0600" stop="20201216143500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI: NY</title>
+  </programme>
+  <programme start="20201216143500 -0600" stop="20201216153000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20201216153000 -0600" stop="20201216162500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20201216162500 -0600" stop="20201216172000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20201216172000 -0600" stop="20201216181500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201216181500 -0600" stop="20201216191000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201216191000 -0600" stop="20201216200500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20201216200500 -0600" stop="20201216210000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201216210000 -0600" stop="20201216220000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201216220000 -0600" stop="20201216225500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201216225500 -0600" stop="20201216235000 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">L.A.'s finest</title>
+  </programme>
+  <programme start="20201216235000 -0600" stop="20201217004500 -0600" channel="SERIE: AXN SD*">
+    <title lang="es">Hawaii Five-0</title>
+  </programme>
+  <programme start="20201214021000 -0600" stop="20201214040000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Un pasado infernal</title>
+  </programme>
+  <programme start="20201214040000 -0600" stop="20201214045500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20201214045500 -0600" stop="20201214055500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20201214055500 -0600" stop="20201214062000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20201214062000 -0600" stop="20201214064500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20201214064500 -0600" stop="20201214071000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201214071000 -0600" stop="20201214073500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201214073500 -0600" stop="20201214080000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214083000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201214083000 -0600" stop="20201214090000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201214090000 -0600" stop="20201214093000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201214093000 -0600" stop="20201214095500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201214095500 -0600" stop="20201214113500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">El secuestro de Mr. Heineken</title>
+  </programme>
+  <programme start="20201214113500 -0600" stop="20201214132000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Wild Target</title>
+  </programme>
+  <programme start="20201214132000 -0600" stop="20201214144500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">7500</title>
+  </programme>
+  <programme start="20201214144500 -0600" stop="20201214162000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Cuenta Conmigo</title>
+  </programme>
+  <programme start="20201214162000 -0600" stop="20201214184000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Inframundo</title>
+  </programme>
+  <programme start="20201214184000 -0600" stop="20201214201500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Cacería de brujas</title>
+  </programme>
+  <programme start="20201214201500 -0600" stop="20201214220000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Pompeii La furia del volcán</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214234500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20201214234500 -0600" stop="20201215004500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
+  </programme>
+  <programme start="20201215234500 -0600" stop="20201216004500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
+  </programme>
+  <programme start="20201216004500 -0600" stop="20201216031000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">El rescate</title>
+  </programme>
+  <programme start="20201216031000 -0600" stop="20201216034000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216034000 -0600" stop="20201216044000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20201216044000 -0600" stop="20201216054000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20201216054000 -0600" stop="20201216061000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216061000 -0600" stop="20201216063500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216063500 -0600" stop="20201216070000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216070000 -0600" stop="20201216073000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216073000 -0600" stop="20201216080000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216080000 -0600" stop="20201216083000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216083000 -0600" stop="20201216090000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216090000 -0600" stop="20201216093000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216093000 -0600" stop="20201216100000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216100000 -0600" stop="20201216103000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216103000 -0600" stop="20201216110000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20201216110000 -0600" stop="20201216124000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">The Andromeda Strain</title>
+  </programme>
+  <programme start="20201216124000 -0600" stop="20201216141500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Cuenta Conmigo</title>
+  </programme>
+  <programme start="20201216141500 -0600" stop="20201216155500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">El gran casamiento</title>
+  </programme>
+  <programme start="20201216155500 -0600" stop="20201216174500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">De amor y dinero</title>
+  </programme>
+  <programme start="20201216174500 -0600" stop="20201216193500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Medio Muerto</title>
+  </programme>
+  <programme start="20201216193500 -0600" stop="20201216220000 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Cuestión de honor</title>
+  </programme>
+  <programme start="20201216220000 -0600" stop="20201216234500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">Centurión</title>
+  </programme>
+  <programme start="20201216234500 -0600" stop="20201217004500 -0600" channel="CINEMA: AMC SD*">
+    <title lang="es">NOS4A2 (Nosferatu)</title>
+  </programme>
+  <programme start="20201214002400 -0600" stop="20201214021800 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Taxi Driver</title>
+  </programme>
+  <programme start="20201214021800 -0600" stop="20201214041300 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">El expreso de Chicago</title>
+  </programme>
+  <programme start="20201214041300 -0600" stop="20201214054100 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Canción de Navidad</title>
+  </programme>
+  <programme start="20201214054100 -0600" stop="20201214072000 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Escape del planeta de los sim</title>
+  </programme>
+  <programme start="20201214072000 -0600" stop="20201214085200 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Hell Is For Heroes</title>
+  </programme>
+  <programme start="20201214085200 -0600" stop="20201214104300 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Butch Cassidy</title>
+  </programme>
+  <programme start="20201214104300 -0600" stop="20201214122200 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Titanic</title>
+  </programme>
+  <programme start="20201214122200 -0600" stop="20201214141700 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">El expreso de Chicago</title>
+  </programme>
+  <programme start="20201214141700 -0600" stop="20201214154600 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">La patrulla infernal</title>
+  </programme>
+  <programme start="20201214154600 -0600" stop="20201214180000 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Almas en la hoguera</title>
+  </programme>
+  <programme start="20201214180000 -0600" stop="20201214204200 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Nueva York, Nueva York</title>
+  </programme>
+  <programme start="20201214204200 -0600" stop="20201214221400 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Flashdance</title>
+  </programme>
+  <programme start="20201214221400 -0600" stop="20201214235500 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Tres horas de amor</title>
+  </programme>
+  <programme start="20201214235500 -0600" stop="20201215015500 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">El desconocido</title>
+  </programme>
+  <programme start="20201215015500 -0600" stop="20201215033700 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">El Cisne negro</title>
+  </programme>
+  <programme start="20201215033700 -0600" stop="20201215051100 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Los Justicieros del Oeste</title>
+  </programme>
+  <programme start="20201215051100 -0600" stop="20201215070500 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">El detective</title>
+  </programme>
+  <programme start="20201215070500 -0600" stop="20201215084600 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">The last Wagon</title>
+  </programme>
+  <programme start="20201215084600 -0600" stop="20201215094100 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Canción de Navidad</title>
+  </programme>
+  <programme start="20201215094100 -0600" stop="20201215123400 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Patton</title>
+  </programme>
+  <programme start="20201215123400 -0600" stop="20201215143200 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Destino de un rebelde</title>
+  </programme>
+  <programme start="20201215143200 -0600" stop="20201215162000 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">¿Quién Llamó a la Cigüeña</title>
+  </programme>
+  <programme start="20201215162000 -0600" stop="20201215180000 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Hechizo del tiempo</title>
+  </programme>
+  <programme start="20201215180000 -0600" stop="20201215200700 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">El Pasajero</title>
+  </programme>
+  <programme start="20201215200700 -0600" stop="20201215220500 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Asesinos por naturaleza</title>
+  </programme>
+  <programme start="20201215220500 -0600" stop="20201216001600 -0600" channel="CINEMA: FOX CLASICO SD*">
+    <title lang="es">Duro de matar</title>
+  </programme>
+  <programme start="20201214001000 -0600" stop="20201214021500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">El bebé de Bridget Jones</title>
+  </programme>
+  <programme start="20201214021500 -0600" stop="20201214030000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201214030000 -0600" stop="20201214034500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201214034500 -0600" stop="20201214043000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201214043000 -0600" stop="20201214051500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201214051500 -0600" stop="20201214060000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214070000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214075500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201214075500 -0600" stop="20201214085000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201214085000 -0600" stop="20201214094500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201214094500 -0600" stop="20201214104000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201214104000 -0600" stop="20201214113500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201214113500 -0600" stop="20201214123000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201214123000 -0600" stop="20201214132500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201214132500 -0600" stop="20201214142000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201214142000 -0600" stop="20201214151500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201214151500 -0600" stop="20201214161000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201214161000 -0600" stop="20201214170000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201214170000 -0600" stop="20201214175000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201214175000 -0600" stop="20201214184000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201214184000 -0600" stop="20201214193000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201214193000 -0600" stop="20201214202000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201214202000 -0600" stop="20201214211000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201214211000 -0600" stop="20201214220000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214225000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201214225000 -0600" stop="20201214231500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">10 cosas que no sabes</title>
+  </programme>
+  <programme start="20201214231500 -0600" stop="20201214234000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">10 cosas que no sabes</title>
+  </programme>
+  <programme start="20201214234000 -0600" stop="20201215003000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201215003000 -0600" stop="20201215012000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201215012000 -0600" stop="20201215021000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201215021000 -0600" stop="20201215023500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">10 cosas que no sabes</title>
+  </programme>
+  <programme start="20201215023500 -0600" stop="20201215030000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">10 cosas que no sabes</title>
+  </programme>
+  <programme start="20201215030000 -0600" stop="20201215034500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Botched</title>
+  </programme>
+  <programme start="20201215034500 -0600" stop="20201215043000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Hollywood medium with Tyler</title>
+  </programme>
+  <programme start="20201215043000 -0600" stop="20201215051500 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201215051500 -0600" stop="20201215060000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Bajo cubierta</title>
+  </programme>
+  <programme start="20201215151500 -0600" stop="20201215161000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Made in chelsea</title>
+  </programme>
+  <programme start="20201215220000 -0600" stop="20201215225000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201215225000 -0600" stop="20201215234000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201215234000 -0600" stop="20201216003000 -0600" channel="ENTRE: E! SD*">
+    <title lang="es">Keeping up with Kardashians</title>
+  </programme>
+  <programme start="20201214003700 -0600" stop="20201214030000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Julie &amp; Julia</title>
+  </programme>
+  <programme start="20201214030000 -0600" stop="20201214045200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Ritmos del barrio</title>
+  </programme>
+  <programme start="20201214045200 -0600" stop="20201214055200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Private Eyes</title>
+  </programme>
+  <programme start="20201214055200 -0600" stop="20201214070000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Private Eyes</title>
+  </programme>
+  <programme start="20201214070000 -0600" stop="20201214075200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20201214075200 -0600" stop="20201214083700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Remedy</title>
+  </programme>
+  <programme start="20201214083700 -0600" stop="20201214093000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20201214093000 -0600" stop="20201214101500 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Remedy</title>
+  </programme>
+  <programme start="20201214101500 -0600" stop="20201214110700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">The Romeo Section</title>
+  </programme>
+  <programme start="20201214110700 -0600" stop="20201214133000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Espanglish</title>
+  </programme>
+  <programme start="20201214133000 -0600" stop="20201214145200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Marci X</title>
+  </programme>
+  <programme start="20201214145200 -0600" stop="20201214154500 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20201214154500 -0600" stop="20201214163700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Proven Innocent</title>
+  </programme>
+  <programme start="20201214163700 -0600" stop="20201214173700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20201214173700 -0600" stop="20201214190700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20201214190700 -0600" stop="20201214201500 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20201214201500 -0600" stop="20201214210000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214220000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214235200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Amores, enredos y una boda</title>
+  </programme>
+  <programme start="20201214235200 -0600" stop="20201215004500 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20201215004500 -0600" stop="20201215015200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20201215015200 -0600" stop="20201215025200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20201215025200 -0600" stop="20201215050000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">El monstruo del lago</title>
+  </programme>
+  <programme start="20201215050000 -0600" stop="20201215051500 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Proven Innocent</title>
+  </programme>
+  <programme start="20201215051500 -0600" stop="20201215060000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Remedy</title>
+  </programme>
+  <programme start="20201215060000 -0600" stop="20201215070000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">The Romeo Section</title>
+  </programme>
+  <programme start="20201215070000 -0600" stop="20201215075200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20201215075200 -0600" stop="20201215083700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Remedy</title>
+  </programme>
+  <programme start="20201215083700 -0600" stop="20201215093000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20201215101500 -0600" stop="20201215110700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">The Romeo Section</title>
+  </programme>
+  <programme start="20201215110700 -0600" stop="20201215132200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Julie &amp; Julia</title>
+  </programme>
+  <programme start="20201215132200 -0600" stop="20201215145200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Jumanji</title>
+  </programme>
+  <programme start="20201215145200 -0600" stop="20201215154500 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law and Order Criminal Intent</title>
+  </programme>
+  <programme start="20201215163700 -0600" stop="20201215173700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20201215173700 -0600" stop="20201215190700 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Law &amp; Order: SVU</title>
+  </programme>
+  <programme start="20201215201500 -0600" stop="20201215210000 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20201215220000 -0600" stop="20201215235200 -0600" channel="ENTRETENIMIENTO: FOX LIFE TP MX">
+    <title lang="es">Acechada</title>
+  </programme>
+  <programme start="20201214000800 -0600" stop="20201214002900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201214002900 -0600" stop="20201214005100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214005100 -0600" stop="20201214020100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gusano del Futuro</title>
+  </programme>
+  <programme start="20201214020100 -0600" stop="20201214022300 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201214022300 -0600" stop="20201214024600 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214024600 -0600" stop="20201214030700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201214030700 -0600" stop="20201214033000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Campamento Lakebottom</title>
+  </programme>
+  <programme start="20201214033000 -0600" stop="20201214035200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Yo-Kai Watch</title>
+  </programme>
+  <programme start="20201214035200 -0600" stop="20201214041400 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214041400 -0600" stop="20201214043700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214043700 -0600" stop="20201214050000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201214050000 -0600" stop="20201214052000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201214052000 -0600" stop="20201214054200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201214054200 -0600" stop="20201214055900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201214055900 -0600" stop="20201214072200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Bajoterra</title>
+  </programme>
+  <programme start="20201214072200 -0600" stop="20201214074500 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20201214074500 -0600" stop="20201214081000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Las aventuras de Timón y Pumb</title>
+  </programme>
+  <programme start="20201214081000 -0600" stop="20201214100000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20201214100000 -0600" stop="20201214102400 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214102400 -0600" stop="20201214122500 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Marvel Spider-Man</title>
+  </programme>
+  <programme start="20201214122500 -0600" stop="20201214130000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Trollhunters De Guillermo Del</title>
+  </programme>
+  <programme start="20201214130000 -0600" stop="20201214132400 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20201214132400 -0600" stop="20201214135800 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20201214135800 -0600" stop="20201214150100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214150100 -0600" stop="20201214152700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214152700 -0600" stop="20201214164000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214164000 -0600" stop="20201214175800 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201214175800 -0600" stop="20201214182300 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Trollhunters De Guillermo Del</title>
+  </programme>
+  <programme start="20201214182300 -0600" stop="20201214190000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Marvel Spider-Man</title>
+  </programme>
+  <programme start="20201214190000 -0600" stop="20201214192600 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20201214192600 -0600" stop="20201214195900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20201214195900 -0600" stop="20201214203500 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20201214203500 -0600" stop="20201214210200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201214210200 -0600" stop="20201214212600 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201214212600 -0600" stop="20201214215900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201214215900 -0600" stop="20201214222300 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214222300 -0600" stop="20201214235900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Trollhunters De Guillermo Del</title>
+  </programme>
+  <programme start="20201214235900 -0600" stop="20201215003800 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20201215003800 -0600" stop="20201215010000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">O11CE</title>
+  </programme>
+  <programme start="20201215010000 -0600" stop="20201215012200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215012200 -0600" stop="20201215014700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">O11CE</title>
+  </programme>
+  <programme start="20201215014700 -0600" stop="20201215021000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201215021000 -0600" stop="20201215023300 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215023300 -0600" stop="20201215025500 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215025500 -0600" stop="20201215031700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215031700 -0600" stop="20201215033900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201215033900 -0600" stop="20201215040200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">¡Bum, Pum, Kapow</title>
+  </programme>
+  <programme start="20201215040200 -0600" stop="20201215042400 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Yo-Kai Watch</title>
+  </programme>
+  <programme start="20201215042400 -0600" stop="20201215044500 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215044500 -0600" stop="20201215050700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201215050700 -0600" stop="20201215053000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201215053000 -0600" stop="20201215064700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201215064700 -0600" stop="20201215093800 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Yo-Kai Watch</title>
+  </programme>
+  <programme start="20201215093800 -0600" stop="20201215100100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20201215100100 -0600" stop="20201215103200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215103200 -0600" stop="20201215112300 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20201215112300 -0600" stop="20201215114600 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Trollhunters De Guillermo Del</title>
+  </programme>
+  <programme start="20201215114600 -0600" stop="20201215120200 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215120200 -0600" stop="20201215122700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Grandes Héroes: La Serie</title>
+  </programme>
+  <programme start="20201215122700 -0600" stop="20201215130400 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215130400 -0600" stop="20201215132700 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Patoaventuras</title>
+  </programme>
+  <programme start="20201215132700 -0600" stop="20201215140300 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215140300 -0600" stop="20201215142900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215142900 -0600" stop="20201215145400 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215145400 -0600" stop="20201215151800 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215151800 -0600" stop="20201215154300 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215154300 -0600" stop="20201215160900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215160900 -0600" stop="20201215163100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201215163100 -0600" stop="20201215165900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">¡Bum, Pum, Kapow</title>
+  </programme>
+  <programme start="20201215165900 -0600" stop="20201215174100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20201215174100 -0600" stop="20201215175900 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gusano del Futuro</title>
+  </programme>
+  <programme start="20201215175900 -0600" stop="20201215194000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Lluvia de Hamburguesas</title>
+  </programme>
+  <programme start="20201215194000 -0600" stop="20201215201600 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201215201600 -0600" stop="20201215210000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20201215210000 -0600" stop="20201215212400 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star Wars The Clone Wars Te</title>
+  </programme>
+  <programme start="20201215212400 -0600" stop="20201215220100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Star Wars The Clone Wars Te</title>
+  </programme>
+  <programme start="20201215220100 -0600" stop="20201215222600 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Trollhunters De Guillermo Del</title>
+  </programme>
+  <programme start="20201215222600 -0600" stop="20201215230100 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215230100 -0600" stop="20201215232500 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Randy Cunningham Ninja Total</title>
+  </programme>
+  <programme start="20201215232500 -0600" stop="20201215234800 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Pecezuelos</title>
+  </programme>
+  <programme start="20201215234800 -0600" stop="20201216001000 -0600" channel="NIÑOS: Disney XD SD*">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20201214001500 -0600" stop="20201214004000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201214004000 -0600" stop="20201214010400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201214010400 -0600" stop="20201214012600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214012600 -0600" stop="20201214015000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201214015000 -0600" stop="20201214021200 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201214021200 -0600" stop="20201214023500 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201214023500 -0600" stop="20201214025800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201214025800 -0600" stop="20201214032000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201214032000 -0600" stop="20201214034300 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Enredados otra vez La serie</title>
+  </programme>
+  <programme start="20201214034300 -0600" stop="20201214040600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201214040600 -0600" stop="20201214042900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201214042900 -0600" stop="20201214045100 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201214045100 -0600" stop="20201214051400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201214051400 -0600" stop="20201214053600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201214053600 -0600" stop="20201214060000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hotel Transylvania La serie</title>
+  </programme>
+  <programme start="20201214060000 -0600" stop="20201214062300 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201214062300 -0600" stop="20201214065800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214065800 -0600" stop="20201214080000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20201214080000 -0600" stop="20201214082600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hotel Transylvania La serie</title>
+  </programme>
+  <programme start="20201214082600 -0600" stop="20201214090400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20201214090400 -0600" stop="20201214093000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Las aventuras enredadas de Ra</title>
+  </programme>
+  <programme start="20201214093000 -0600" stop="20201214102400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201214102400 -0600" stop="20201214105900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20201214105900 -0600" stop="20201214112600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201214112600 -0600" stop="20201214120300 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201214120300 -0600" stop="20201214123200 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201214123200 -0600" stop="20201214130100 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201214130100 -0600" stop="20201214143000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Whitney Brown</title>
+  </programme>
+  <programme start="20201214143000 -0600" stop="20201214145900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201214145900 -0600" stop="20201214152900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201214152900 -0600" stop="20201214162400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20201214162400 -0600" stop="20201214165700 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201214165700 -0600" stop="20201214172700 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201214172700 -0600" stop="20201214180000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201214180000 -0600" stop="20201214183000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201214183000 -0600" stop="20201214185900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201214185900 -0600" stop="20201214193100 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201214193100 -0600" stop="20201214200000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201214200000 -0600" stop="20201214202600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Holly Hobbie</title>
+  </programme>
+  <programme start="20201214202600 -0600" stop="20201214210000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201214210000 -0600" stop="20201214212800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201214212800 -0600" stop="20201214220000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20201214220000 -0600" stop="20201214222900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201214222900 -0600" stop="20201214225800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201214225800 -0600" stop="20201214232900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201214232900 -0600" stop="20201215000900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201215000900 -0600" stop="20201215003400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hannah Montana</title>
+  </programme>
+  <programme start="20201215003400 -0600" stop="20201215005600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Austin &amp; Ally</title>
+  </programme>
+  <programme start="20201215005600 -0600" stop="20201215024800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Descendientes 2 (Sing Along)</title>
+  </programme>
+  <programme start="20201215024800 -0600" stop="20201215033200 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Soy Luna</title>
+  </programme>
+  <programme start="20201215033200 -0600" stop="20201215035600 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201215035600 -0600" stop="20201215041800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201215041800 -0600" stop="20201215044000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201215044000 -0600" stop="20201215050300 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201215050300 -0600" stop="20201215052700 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201215052700 -0600" stop="20201215060000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215060000 -0600" stop="20201215062400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201215062400 -0600" stop="20201215072300 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201215072300 -0600" stop="20201215080000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201215080000 -0600" stop="20201215082800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Glitter Model</title>
+  </programme>
+  <programme start="20201215082800 -0600" stop="20201215090000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Enredados otra vez La serie</title>
+  </programme>
+  <programme start="20201215090000 -0600" stop="20201215092700 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Las aventuras enredadas de Ra</title>
+  </programme>
+  <programme start="20201215092700 -0600" stop="20201215105800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Rapunzel Tangled Adventure (TV</title>
+  </programme>
+  <programme start="20201215105800 -0600" stop="20201215112300 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Holly Hobbie</title>
+  </programme>
+  <programme start="20201215112300 -0600" stop="20201215115800 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Holly Hobbie</title>
+  </programme>
+  <programme start="20201215115800 -0600" stop="20201215122900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201215122900 -0600" stop="20201215125700 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201215125700 -0600" stop="20201215133900 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201215133900 -0600" stop="20201215153400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Camp Rock</title>
+  </programme>
+  <programme start="20201215153400 -0600" stop="20201215173200 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Camp Rock 2 The Final Jam</title>
+  </programme>
+  <programme start="20201215173200 -0600" stop="20201215180000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Holly Hobbie</title>
+  </programme>
+  <programme start="20201215180000 -0600" stop="20201215183200 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201215183200 -0600" stop="20201215190100 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201215190100 -0600" stop="20201215193300 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201215193300 -0600" stop="20201215200000 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201215200000 -0600" stop="20201215214400 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Al fondo de la red</title>
+  </programme>
+  <programme start="20201215214400 -0600" stop="20201215233500 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Camp Rock</title>
+  </programme>
+  <programme start="20201215233500 -0600" stop="20201216000200 -0600" channel="NIÑOS: Disney SD*">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+</tv>
