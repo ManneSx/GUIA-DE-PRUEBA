@@ -1,537 +1,104 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="HBO">
-    <display-name lang="es">HBO</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+  <channel id="CINEMAX">
+    <display-name lang="es">CINEMAX</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="SYFY">
-    <display-name lang="es">SYFY</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="AyE">
-    <display-name lang="es">AyE</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <programme start="20201219002500 -0600" stop="20201219023500 -0600" channel="HBO">
-    <title lang="es">Guasón</title>
+  <programme start="20201228004800 -0600" stop="20201228032600 -0600" channel="CINEMAX">
+    <title lang="es">La Estafa de los Logan</title>
   </programme>
-  <programme start="20201219023500 -0600" stop="20201219043400 -0600" channel="HBO">
-    <title lang="es">Bloodshot</title>
+  <programme start="20201228032600 -0600" stop="20201228052200 -0600" channel="CINEMAX">
+    <title lang="es">Jackie (2016)</title>
   </programme>
-  <programme start="20201219043400 -0600" stop="20201219062000 -0600" channel="HBO">
-    <title lang="es">Brian Banks</title>
+  <programme start="20201228052200 -0600" stop="20201228070300 -0600" channel="CINEMAX">
+    <title lang="es">Mi papá es un gato</title>
   </programme>
-  <programme start="20201219062000 -0600" stop="20201219080000 -0600" channel="HBO">
-    <title lang="es">Brightburn: Hijo de la Oscuridad</title>
+  <programme start="20201228070300 -0600" stop="20201228091100 -0600" channel="CINEMAX">
+    <title lang="es">Tres son multitud</title>
   </programme>
-  <programme start="20201219080000 -0600" stop="20201219102000 -0600" channel="HBO">
-    <title lang="es">Shazam</title>
+  <programme start="20201228091100 -0600" stop="20201228112900 -0600" channel="CINEMAX">
+    <title lang="es">Nosotros Los Nobles</title>
   </programme>
-  <programme start="20201219102000 -0600" stop="20201219121500 -0600" channel="HBO">
-    <title lang="es">Annabelle 3: Viene a Casa</title>
+  <programme start="20201228112900 -0600" stop="20201228132900 -0600" channel="CINEMAX">
+    <title lang="es">Regreso del todopoderoso</title>
   </programme>
-  <programme start="20201219121500 -0600" stop="20201219152100 -0600" channel="HBO">
-    <title lang="es">El señor de los anillos La comunidad del anillo</title>
+  <programme start="20201228132900 -0600" stop="20201228160500 -0600" channel="CINEMAX">
+    <title lang="es">Los caza novias</title>
   </programme>
-  <programme start="20201219152100 -0600" stop="20201219183000 -0600" channel="HBO">
-    <title lang="es">El Señor de los Anillos: Las dos Torres</title>
+  <programme start="20201228160500 -0600" stop="20201228180000 -0600" channel="CINEMAX">
+    <title lang="es">Mi novia Polly</title>
   </programme>
-  <programme start="20201219183000 -0600" stop="20201219220000 -0600" channel="HBO">
-    <title lang="es">El Señor de los Anillos: El Retorno del Rey</title>
+  <programme start="20201228180000 -0600" stop="20201228200000 -0600" channel="CINEMAX">
+    <title lang="es">Regreso del todopoderoso</title>
   </programme>
-  <programme start="20201219220000 -0600" stop="20201220002000 -0600" channel="HBO">
-    <title lang="es">Mujercitas (2019)</title>
+  <programme start="20201228200000 -0600" stop="20201228220200 -0600" channel="CINEMAX">
+    <title lang="es">American Pie - La boda</title>
   </programme>
-  <programme start="20201220002000 -0600" stop="20201220024000 -0600" channel="HBO">
-    <title lang="es">Shazam</title>
+  <programme start="20201228220200 -0600" stop="20201228235800 -0600" channel="CINEMAX">
+    <title lang="es">50 Sombras negras</title>
   </programme>
-  <programme start="20201220024000 -0600" stop="20201220052000 -0600" channel="HBO">
-    <title lang="es">Harry Potter y el Cáliz de Fuego</title>
+  <programme start="20201228235800 -0600" stop="20201229020500 -0600" channel="CINEMAX">
+    <title lang="es">La visita del rey</title>
   </programme>
-  <programme start="20201220052000 -0600" stop="20201220074000 -0600" channel="HBO">
-    <title lang="es">Buscando justicia</title>
+  <programme start="20201229020500 -0600" stop="20201229035200 -0600" channel="CINEMAX">
+    <title lang="es">Memorias de un espia</title>
   </programme>
-  <programme start="20201220074000 -0600" stop="20201220091500 -0600" channel="HBO">
-    <title lang="es">El arte del asesinato político</title>
+  <programme start="20201229035200 -0600" stop="20201229055500 -0600" channel="CINEMAX">
+    <title lang="es">Todo está perdido</title>
   </programme>
-  <programme start="20201220091500 -0600" stop="20201220105500 -0600" channel="HBO">
-    <title lang="es">La maldición renace</title>
+  <programme start="20201229055500 -0600" stop="20201229080900 -0600" channel="CINEMAX">
+    <title lang="es">El dilema</title>
   </programme>
-  <programme start="20201220105500 -0600" stop="20201220125000 -0600" channel="HBO">
-    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  <programme start="20201229080900 -0600" stop="20201229101300 -0600" channel="CINEMAX">
+    <title lang="es">Sin Reservas</title>
   </programme>
-  <programme start="20201220125000 -0600" stop="20201220151000 -0600" channel="HBO">
-    <title lang="es">Rápidos y Furiosos: Hobbs &amp; Shaw</title>
+  <programme start="20201229101300 -0600" stop="20201229130000 -0600" channel="CINEMAX">
+    <title lang="es">La Leyenda del Zorro</title>
   </programme>
-  <programme start="20201220151000 -0600" stop="20201220164500 -0600" channel="HBO">
-    <title lang="es">La Vida Secreta de tus Mascotas 2</title>
+  <programme start="20201229130000 -0600" stop="20201229150300 -0600" channel="CINEMAX">
+    <title lang="es">Agente Salt</title>
   </programme>
-  <programme start="20201220164500 -0600" stop="20201220185000 -0600" channel="HBO">
-    <title lang="es">Ángeles de Charlie (2019)</title>
+  <programme start="20201229150300 -0600" stop="20201229174300 -0600" channel="CINEMAX">
+    <title lang="es">Los indestructibles 3</title>
   </programme>
-  <programme start="20201220185000 -0600" stop="20201220210000 -0600" channel="HBO">
-    <title lang="es">Bad Boys Para Siempre</title>
+  <programme start="20201229174300 -0600" stop="20201229200000 -0600" channel="CINEMAX">
+    <title lang="es">Rápido y Furioso</title>
   </programme>
-  <programme start="20201220210000 -0600" stop="20201220220000 -0600" channel="HBO">
-    <title lang="es">Dime quién soy</title>
+  <programme start="20201229200000 -0600" stop="20201229220300 -0600" channel="CINEMAX">
+    <title lang="es">Agente Salt</title>
   </programme>
-  <programme start="20201220220000 -0600" stop="20201221001500 -0600" channel="HBO">
-    <title lang="es">Spider-Man: Lejos de Casa</title>
+  <programme start="20201229220300 -0600" stop="20201229235600 -0600" channel="CINEMAX">
+    <title lang="es">Sangre de mi Sangre</title>
   </programme>
-  <programme start="20201221001500 -0600" stop="20201221021000 -0600" channel="HBO">
-    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  <programme start="20201229235600 -0600" stop="20201230015900 -0600" channel="CINEMAX">
+    <title lang="es">Un cadáver para sobrevivir</title>
   </programme>
-  <programme start="20201221021000 -0600" stop="20201221030000 -0600" channel="HBO">
-    <title lang="es">Dime quién soy</title>
+  <programme start="20201230235600 -0600" stop="20201231015900 -0600" channel="CINEMAX">
+    <title lang="es">Un cadáver para sobrevivir</title>
   </programme>
-  <programme start="20201221030000 -0600" stop="20201221045000 -0600" channel="HBO">
-    <title lang="es">De noche con Kate</title>
+  <programme start="20201231015900 -0600" stop="20201231044400 -0600" channel="CINEMAX">
+    <title lang="es">Jerry Maguire, Amor Y Desafío</title>
   </programme>
-  <programme start="20201221045000 -0600" stop="20201221063500 -0600" channel="HBO">
-    <title lang="es">Angry Birds 2: La película</title>
+  <programme start="20201231044400 -0600" stop="20201231063900 -0600" channel="CINEMAX">
+    <title lang="es">Paul</title>
   </programme>
-  <programme start="20201221063500 -0600" stop="20201221084000 -0600" channel="HBO">
-    <title lang="es">Como Novio de Pueblo</title>
+  <programme start="20201231063900 -0600" stop="20201231083800 -0600" channel="CINEMAX">
+    <title lang="es">La chica indicada</title>
   </programme>
-  <programme start="20201221084000 -0600" stop="20201221110000 -0600" channel="HBO">
-    <title lang="es">Mujercitas (2019)</title>
+  <programme start="20201231083800 -0600" stop="20201231104300 -0600" channel="CINEMAX">
+    <title lang="es">Locas vacaciones sobre ruedas</title>
   </programme>
-  <programme start="20201221110000 -0600" stop="20201221125000 -0600" channel="HBO">
-    <title lang="es">Matar o Morir (2018)</title>
+  <programme start="20201231104300 -0600" stop="20201231125900 -0600" channel="CINEMAX">
+    <title lang="es">Robo en las alturas</title>
   </programme>
-  <programme start="20201221125000 -0600" stop="20201221150000 -0600" channel="HBO">
-    <title lang="es">Bad Boys Para Siempre</title>
+  <programme start="20201231125900 -0600" stop="20201231153300 -0600" channel="CINEMAX">
+    <title lang="es">Olimpo bajo fuego</title>
   </programme>
-  <programme start="20201221150000 -0600" stop="20201221160000 -0600" channel="HBO">
-    <title lang="es">His Dark Materials</title>
+  <programme start="20201231153300 -0600" stop="20201231174700 -0600" channel="CINEMAX">
+    <title lang="es">Rápido y furioso Reto Tokio</title>
   </programme>
-  <programme start="20201221160000 -0600" stop="20201221175000 -0600" channel="HBO">
-    <title lang="es">Jefa por Accidente</title>
-  </programme>
-  <programme start="20201221175000 -0600" stop="20201221184000 -0600" channel="HBO">
-    <title lang="es">Foodie Love</title>
-  </programme>
-  <programme start="20201221184000 -0600" stop="20201221210000 -0600" channel="HBO">
-    <title lang="es">Godzilla II: El rey de los monstruos</title>
-  </programme>
-  <programme start="20201221210000 -0600" stop="20201221220000 -0600" channel="HBO">
-    <title lang="es">His Dark Materials</title>
-  </programme>
-  <programme start="20201221220000 -0600" stop="20201221230000 -0600" channel="HBO">
-    <title lang="es">Industry</title>
-  </programme>
-  <programme start="20201221230000 -0600" stop="20201222010500 -0600" channel="HBO">
-    <title lang="es">1917</title>
-  </programme>
-  <programme start="20201219010000 -0600" stop="20201219015000 -0600" channel="SYFY">
-    <title lang="es">The Outpost</title>
-  </programme>
-  <programme start="20201219015000 -0600" stop="20201219024000 -0600" channel="SYFY">
-    <title lang="es">Charmed</title>
-  </programme>
-  <programme start="20201219024000 -0600" stop="20201219033000 -0600" channel="SYFY">
-    <title lang="es">Charmed</title>
-  </programme>
-  <programme start="20201219033000 -0600" stop="20201219042000 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201219042000 -0600" stop="20201219051000 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201219051000 -0600" stop="20201219061500 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201219061500 -0600" stop="20201219064000 -0600" channel="SYFY">
-    <title lang="es">Syfy games</title>
-  </programme>
-  <programme start="20201219064000 -0600" stop="20201219073000 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201219073000 -0600" stop="20201219082000 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201219082000 -0600" stop="20201219100000 -0600" channel="SYFY">
-    <title lang="es">Sharknado tornado de</title>
-  </programme>
-  <programme start="20201219100000 -0600" stop="20201219114000 -0600" channel="SYFY">
-    <title lang="es">Sharknado 2</title>
-  </programme>
-  <programme start="20201219114000 -0600" stop="20201219123000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219123000 -0600" stop="20201219132000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219132000 -0600" stop="20201219141000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219141000 -0600" stop="20201219150000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219150000 -0600" stop="20201219155000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219155000 -0600" stop="20201219164000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219164000 -0600" stop="20201219173000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219173000 -0600" stop="20201219182000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219182000 -0600" stop="20201219191000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219191000 -0600" stop="20201219200000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219200000 -0600" stop="20201219202500 -0600" channel="SYFY">
-    <title lang="es">Syfy games</title>
-  </programme>
-  <programme start="20201219202500 -0600" stop="20201219205000 -0600" channel="SYFY">
-    <title lang="es">Syfy games</title>
-  </programme>
-  <programme start="20201219205000 -0600" stop="20201219224000 -0600" channel="SYFY">
-    <title lang="es">Terror bajo la tierra 6</title>
-  </programme>
-  <programme start="20201219224000 -0600" stop="20201220003000 -0600" channel="SYFY">
-    <title lang="es">La carrera de la muerte</title>
-  </programme>
-  <programme start="20201220224000 -0600" stop="20201221003000 -0600" channel="SYFY">
-    <title lang="es">La carrera de la muerte</title>
-  </programme>
-  <programme start="20201221003000 -0600" stop="20201221021000 -0600" channel="SYFY">
-    <title lang="es">Roger Corman presenta</title>
-  </programme>
-  <programme start="20201221021000 -0600" stop="20201221034500 -0600" channel="SYFY">
-    <title lang="es">La era de los dinosaurios</title>
-  </programme>
-  <programme start="20201221034500 -0600" stop="20201221043500 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201221043500 -0600" stop="20201221052500 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201221052500 -0600" stop="20201221061500 -0600" channel="SYFY">
-    <title lang="es">Syfy games</title>
-  </programme>
-  <programme start="20201221061500 -0600" stop="20201221064000 -0600" channel="SYFY">
-    <title lang="es">Syfy games</title>
-  </programme>
-  <programme start="20201221064000 -0600" stop="20201221073000 -0600" channel="SYFY">
-    <title lang="es">Star Trek The next generation</title>
-  </programme>
-  <programme start="20201221073000 -0600" stop="20201221091000 -0600" channel="SYFY">
-    <title lang="es">Las 7 aventuras de Sinbad</title>
-  </programme>
-  <programme start="20201221091000 -0600" stop="20201221105000 -0600" channel="SYFY">
-    <title lang="es">La era de los dinosaurios</title>
-  </programme>
-  <programme start="20201221105000 -0600" stop="20201221114000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221114000 -0600" stop="20201221123000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221123000 -0600" stop="20201221132000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221132000 -0600" stop="20201221141000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221141000 -0600" stop="20201221150000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221150000 -0600" stop="20201221155000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221155000 -0600" stop="20201221164000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221164000 -0600" stop="20201221173000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221173000 -0600" stop="20201221182000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221182000 -0600" stop="20201221191000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221191000 -0600" stop="20201221200000 -0600" channel="SYFY">
-    <title lang="es">Lost</title>
-  </programme>
-  <programme start="20201221200000 -0600" stop="20201221205000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201221205000 -0600" stop="20201221214000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201221214000 -0600" stop="20201221223000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201221223000 -0600" stop="20201221232000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201221232000 -0600" stop="20201222001000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201222232000 -0600" stop="20201223001000 -0600" channel="SYFY">
-    <title lang="es">Grimm</title>
-  </programme>
-  <programme start="20201219003000 -0600" stop="20201219020500 -0600" channel="AyE">
-    <title lang="es">Me enamoré de mi alumno</title>
-  </programme>
-  <programme start="20201219020500 -0600" stop="20201219025500 -0600" channel="AyE">
-    <title lang="es">Terapia De Shock</title>
-  </programme>
-  <programme start="20201219025500 -0600" stop="20201219034500 -0600" channel="AyE">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20201219034500 -0600" stop="20201219043500 -0600" channel="AyE">
-    <title lang="es">El asesinato de Laci Peterson</title>
-  </programme>
-  <programme start="20201219043500 -0600" stop="20201219050500 -0600" channel="AyE">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20201219050500 -0600" stop="20201219060000 -0600" channel="AyE">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201219060000 -0600" stop="20201219065000 -0600" channel="AyE">
-    <title lang="es">Dr. Pie</title>
-  </programme>
-  <programme start="20201219065000 -0600" stop="20201219074000 -0600" channel="AyE">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201219074000 -0600" stop="20201219083000 -0600" channel="AyE">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201219083000 -0600" stop="20201219092000 -0600" channel="AyE">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20201219092000 -0600" stop="20201219101000 -0600" channel="AyE">
-    <title lang="es">El asesinato de Laci Peterson</title>
-  </programme>
-  <programme start="20201219101000 -0600" stop="20201219110000 -0600" channel="AyE">
-    <title lang="es">Las 9 caras de Jane</title>
-  </programme>
-  <programme start="20201219110000 -0600" stop="20201219112500 -0600" channel="AyE">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20201219112500 -0600" stop="20201219121500 -0600" channel="AyE">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201219121500 -0600" stop="20201219130500 -0600" channel="AyE">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201219130500 -0600" stop="20201219135500 -0600" channel="AyE">
-    <title lang="es">Terapia De Shock</title>
-  </programme>
-  <programme start="20201219135500 -0600" stop="20201219144500 -0600" channel="AyE">
-    <title lang="es">60 dias preso en Narcolandia</title>
-  </programme>
-  <programme start="20201219144500 -0600" stop="20201219153500 -0600" channel="AyE">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20201219153500 -0600" stop="20201219160500 -0600" channel="AyE">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20201219160500 -0600" stop="20201219163000 -0600" channel="AyE">
-    <title lang="es">Court Cam Acción Judicial</title>
-  </programme>
-  <programme start="20201219163000 -0600" stop="20201219170000 -0600" channel="AyE">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201219170000 -0600" stop="20201219172500 -0600" channel="AyE">
-    <title lang="es">Cam Alert Captura exitosa</title>
-  </programme>
-  <programme start="20201219172500 -0600" stop="20201219190500 -0600" channel="AyE">
-    <title lang="es">11-S El secuestro del vuelo</title>
-  </programme>
-  <programme start="20201219190500 -0600" stop="20201219203500 -0600" channel="AyE">
-    <title lang="es">Enlace mortal</title>
-  </programme>
-  <programme start="20201219203500 -0600" stop="20201219225000 -0600" channel="AyE">
-    <title lang="es">Juego De Espias</title>
-  </programme>
-  <programme start="20201219225000 -0600" stop="20201220002500 -0600" channel="AyE">
-    <title lang="es">Código de defensa</title>
-  </programme>
-  <programme start="20201220002500 -0600" stop="20201220005500 -0600" channel="AyE">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201220005500 -0600" stop="20201220012000 -0600" channel="AyE">
-    <title lang="es">Cam Alert Captura exitosa</title>
-  </programme>
-  <programme start="20201220012000 -0600" stop="20201220021000 -0600" channel="AyE">
-    <title lang="es">Las 9 caras de Jane</title>
-  </programme>
-  <programme start="20201220021000 -0600" stop="20201220030000 -0600" channel="AyE">
-    <title lang="es">60 dias preso en Narcolandia</title>
-  </programme>
-  <programme start="20201220030000 -0600" stop="20201220033000 -0600" channel="AyE">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20201220033000 -0600" stop="20201220035500 -0600" channel="AyE">
-    <title lang="es">Court Cam Acción Judicial</title>
-  </programme>
-  <programme start="20201220035500 -0600" stop="20201220042000 -0600" channel="AyE">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20201220042000 -0600" stop="20201220051000 -0600" channel="AyE">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201220051000 -0600" stop="20201220060000 -0600" channel="AyE">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201220060000 -0600" stop="20201220065000 -0600" channel="AyE">
-    <title lang="es">Dr. Pie</title>
-  </programme>
-  <programme start="20201220065000 -0600" stop="20201220074000 -0600" channel="AyE">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201220074000 -0600" stop="20201220083000 -0600" channel="AyE">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201220083000 -0600" stop="20201220092000 -0600" channel="AyE">
-    <title lang="es">Las 9 caras de Jane</title>
-  </programme>
-  <programme start="20201220092000 -0600" stop="20201220094500 -0600" channel="AyE">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20201220094500 -0600" stop="20201220103500 -0600" channel="AyE">
-    <title lang="es">Mi vida con sindrome de Down</title>
-  </programme>
-  <programme start="20201220103500 -0600" stop="20201220112500 -0600" channel="AyE">
-    <title lang="es">60 dias preso en Narcolandia</title>
-  </programme>
-  <programme start="20201220112500 -0600" stop="20201220121500 -0600" channel="AyE">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201220121500 -0600" stop="20201220130500 -0600" channel="AyE">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20201220130500 -0600" stop="20201220135500 -0600" channel="AyE">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20201220135500 -0600" stop="20201220144500 -0600" channel="AyE">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20201220144500 -0600" stop="20201220153500 -0600" channel="AyE">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20201220153500 -0600" stop="20201220162500 -0600" channel="AyE">
-    <title lang="es">Palabra de asesino</title>
-  </programme>
-  <programme start="20201220162500 -0600" stop="20201220165500 -0600" channel="AyE">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201220165500 -0600" stop="20201220172000 -0600" channel="AyE">
-    <title lang="es">Cam Alert Captura exitosa</title>
-  </programme>
-  <programme start="20201220172000 -0600" stop="20201220191000 -0600" channel="AyE">
-    <title lang="es">El gran jefe</title>
-  </programme>
-  <programme start="20201220191000 -0600" stop="20201220210000 -0600" channel="AyE">
-    <title lang="es">El regreso del dragón</title>
-  </programme>
-  <programme start="20201220210000 -0600" stop="20201220212500 -0600" channel="AyE">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201220212500 -0600" stop="20201220215500 -0600" channel="AyE">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201220215500 -0600" stop="20201220222000 -0600" channel="AyE">
-    <title lang="es">Cam Alert Captura exitosa</title>
-  </programme>
-  <programme start="20201220222000 -0600" stop="20201220224500 -0600" channel="AyE">
-    <title lang="es">Court Cam Acción Judicial</title>
-  </programme>
-  <programme start="20201220224500 -0600" stop="20201220233500 -0600" channel="AyE">
-    <title lang="es">Acusado ¿Culpable o inocente</title>
-  </programme>
-  <programme start="20201220233500 -0600" stop="20201221000500 -0600" channel="AyE">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201221000500 -0600" stop="20201221003000 -0600" channel="AyE">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20201221003000 -0600" stop="20201221012000 -0600" channel="AyE">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20201221012000 -0600" stop="20201221021000 -0600" channel="AyE">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20201221021000 -0600" stop="20201221030000 -0600" channel="AyE">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20201221030000 -0600" stop="20201221035000 -0600" channel="AyE">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20201221035000 -0600" stop="20201221044000 -0600" channel="AyE">
-    <title lang="es">Mi vida con sindrome de Down</title>
-  </programme>
-  <programme start="20201221044000 -0600" stop="20201221051000 -0600" channel="AyE">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20201221051000 -0600" stop="20201221060000 -0600" channel="AyE">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201221060000 -0600" stop="20201221063000 -0600" channel="AyE">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201221063000 -0600" stop="20201221073000 -0600" channel="AyE">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20201221073000 -0600" stop="20201221082000 -0600" channel="AyE">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20201221082000 -0600" stop="20201221091000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221091000 -0600" stop="20201221100000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221100000 -0600" stop="20201221105000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221105000 -0600" stop="20201221114000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221114000 -0600" stop="20201221123000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221123000 -0600" stop="20201221132000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221132000 -0600" stop="20201221141000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221141000 -0600" stop="20201221150000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221150000 -0600" stop="20201221155000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221155000 -0600" stop="20201221164000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221164000 -0600" stop="20201221175000 -0600" channel="AyE">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201221175000 -0600" stop="20201221193500 -0600" channel="AyE">
-    <title lang="es">Hércules</title>
-  </programme>
-  <programme start="20201221193500 -0600" stop="20201221210500 -0600" channel="AyE">
-    <title lang="es">Con la frente en alto</title>
-  </programme>
-  <programme start="20201221210500 -0600" stop="20201221225000 -0600" channel="AyE">
-    <title lang="es">Enemigos de sangre</title>
-  </programme>
-  <programme start="20201221225000 -0600" stop="20201222004000 -0600" channel="AyE">
-    <title lang="es">Juego de Asesinos</title>
+  <programme start="20201231174700 -0600" stop="20201231200000 -0600" channel="CINEMAX">
+    <title lang="es">Linea de fuego</title>
   </programme>
 </tv>
