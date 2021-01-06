@@ -1,104 +1,1434 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="CINEMAX">
-    <display-name lang="es">CINEMAX</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
+  <channel id="Warner channenel">
+    <display-name lang="es">Warner channenel</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20201228004800 -0600" stop="20201228032600 -0600" channel="CINEMAX">
-    <title lang="es">La Estafa de los Logan</title>
+  <channel id="Fx">
+    <display-name lang="es">Fx</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Paramount">
+    <display-name lang="es">Paramount</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Tcm">
+    <display-name lang="es">Tcm</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Premium Action">
+    <display-name lang="es">Fox Premium Action</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Premium Cinema">
+    <display-name lang="es">Fox Premium Cinema</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Premium Comedy">
+    <display-name lang="es">Fox Premium Comedy</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Premium Family">
+    <display-name lang="es">Fox Premium Family</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Premium Series">
+    <display-name lang="es">Fox Premium Series</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Fox Premium Movies">
+    <display-name lang="es">Fox Premium Movies</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Golden">
+    <display-name lang="es">Golden</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="es">HBO Signature</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210106000100 -0600" stop="20210106002400 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201228032600 -0600" stop="20201228052200 -0600" channel="CINEMAX">
-    <title lang="es">Jackie (2016)</title>
+  <programme start="20210106002400 -0600" stop="20210106004600 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201228052200 -0600" stop="20201228070300 -0600" channel="CINEMAX">
-    <title lang="es">Mi papá es un gato</title>
+  <programme start="20210106004600 -0600" stop="20210106010800 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201228070300 -0600" stop="20201228091100 -0600" channel="CINEMAX">
-    <title lang="es">Tres son multitud</title>
+  <programme start="20210106010800 -0600" stop="20210106013200 -0600" channel="Warner channenel">
+    <title lang="es">Friends</title>
   </programme>
-  <programme start="20201228091100 -0600" stop="20201228112900 -0600" channel="CINEMAX">
-    <title lang="es">Nosotros Los Nobles</title>
+  <programme start="20210106013200 -0600" stop="20210106030000 -0600" channel="Warner channenel">
+    <title lang="es">Search party</title>
   </programme>
-  <programme start="20201228112900 -0600" stop="20201228132900 -0600" channel="CINEMAX">
-    <title lang="es">Regreso del todopoderoso</title>
+  <programme start="20210106030000 -0600" stop="20210106043800 -0600" channel="Warner channenel">
+    <title lang="es">Search party</title>
   </programme>
-  <programme start="20201228132900 -0600" stop="20201228160500 -0600" channel="CINEMAX">
-    <title lang="es">Los caza novias</title>
+  <programme start="20210106043800 -0600" stop="20210106050100 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201228160500 -0600" stop="20201228180000 -0600" channel="CINEMAX">
-    <title lang="es">Mi novia Polly</title>
+  <programme start="20210106050100 -0600" stop="20210106052300 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201228180000 -0600" stop="20201228200000 -0600" channel="CINEMAX">
-    <title lang="es">Regreso del todopoderoso</title>
+  <programme start="20210106052300 -0600" stop="20210106054400 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201228200000 -0600" stop="20201228220200 -0600" channel="CINEMAX">
-    <title lang="es">American Pie - La boda</title>
+  <programme start="20210106054400 -0600" stop="20210106060600 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201228220200 -0600" stop="20201228235800 -0600" channel="CINEMAX">
-    <title lang="es">50 Sombras negras</title>
+  <programme start="20210106060600 -0600" stop="20210106062800 -0600" channel="Warner channenel">
+    <title lang="es">Mom</title>
   </programme>
-  <programme start="20201228235800 -0600" stop="20201229020500 -0600" channel="CINEMAX">
-    <title lang="es">La visita del rey</title>
+  <programme start="20210106062800 -0600" stop="20210106064900 -0600" channel="Warner channenel">
+    <title lang="es">Young Sheldon</title>
   </programme>
-  <programme start="20201229020500 -0600" stop="20201229035200 -0600" channel="CINEMAX">
-    <title lang="es">Memorias de un espia</title>
+  <programme start="20210106064900 -0600" stop="20210106073700 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20201229035200 -0600" stop="20201229055500 -0600" channel="CINEMAX">
-    <title lang="es">Todo está perdido</title>
+  <programme start="20210106073700 -0600" stop="20210106080100 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20201229055500 -0600" stop="20201229080900 -0600" channel="CINEMAX">
-    <title lang="es">El dilema</title>
+  <programme start="20210106080100 -0600" stop="20210106082600 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20201229080900 -0600" stop="20201229101300 -0600" channel="CINEMAX">
-    <title lang="es">Sin Reservas</title>
+  <programme start="20210106082600 -0600" stop="20210106085000 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
   </programme>
-  <programme start="20201229101300 -0600" stop="20201229130000 -0600" channel="CINEMAX">
-    <title lang="es">La Leyenda del Zorro</title>
+  <programme start="20210106085000 -0600" stop="20210106102900 -0600" channel="Warner channenel">
+    <title lang="es">Pelea de Maestros</title>
   </programme>
-  <programme start="20201229130000 -0600" stop="20201229150300 -0600" channel="CINEMAX">
-    <title lang="es">Agente Salt</title>
+  <programme start="20210106102900 -0600" stop="20210106121400 -0600" channel="Warner channenel">
+    <title lang="es">La Jefa</title>
   </programme>
-  <programme start="20201229150300 -0600" stop="20201229174300 -0600" channel="CINEMAX">
-    <title lang="es">Los indestructibles 3</title>
+  <programme start="20210106121400 -0600" stop="20210106123700 -0600" channel="Warner channenel">
+    <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20201229174300 -0600" stop="20201229200000 -0600" channel="CINEMAX">
-    <title lang="es">Rápido y Furioso</title>
+  <programme start="20210106123700 -0600" stop="20210106130200 -0600" channel="Warner channenel">
+    <title lang="es">Friends</title>
   </programme>
-  <programme start="20201229200000 -0600" stop="20201229220300 -0600" channel="CINEMAX">
-    <title lang="es">Agente Salt</title>
+  <programme start="20210106130200 -0600" stop="20210106132700 -0600" channel="Warner channenel">
+    <title lang="es">Friends</title>
   </programme>
-  <programme start="20201229220300 -0600" stop="20201229235600 -0600" channel="CINEMAX">
-    <title lang="es">Sangre de mi Sangre</title>
+  <programme start="20210106132700 -0600" stop="20210106135200 -0600" channel="Warner channenel">
+    <title lang="es">Friends</title>
   </programme>
-  <programme start="20201229235600 -0600" stop="20201230015900 -0600" channel="CINEMAX">
-    <title lang="es">Un cadáver para sobrevivir</title>
+  <programme start="20210106135200 -0600" stop="20210106141200 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201230235600 -0600" stop="20201231015900 -0600" channel="CINEMAX">
-    <title lang="es">Un cadáver para sobrevivir</title>
+  <programme start="20210106141200 -0600" stop="20210106143400 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201231015900 -0600" stop="20201231044400 -0600" channel="CINEMAX">
-    <title lang="es">Jerry Maguire, Amor Y Desafío</title>
+  <programme start="20210106143400 -0600" stop="20210106145800 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201231044400 -0600" stop="20201231063900 -0600" channel="CINEMAX">
-    <title lang="es">Paul</title>
+  <programme start="20210106145800 -0600" stop="20210106152200 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
   </programme>
-  <programme start="20201231063900 -0600" stop="20201231083800 -0600" channel="CINEMAX">
-    <title lang="es">La chica indicada</title>
+  <programme start="20210106152200 -0600" stop="20210106170500 -0600" channel="Warner channenel">
+    <title lang="es">Sully: Hazaña en el Hudson</title>
   </programme>
-  <programme start="20201231083800 -0600" stop="20201231104300 -0600" channel="CINEMAX">
-    <title lang="es">Locas vacaciones sobre ruedas</title>
+  <programme start="20210106170500 -0600" stop="20210106190000 -0600" channel="Warner channenel">
+    <title lang="es">Colombiana</title>
   </programme>
-  <programme start="20201231104300 -0600" stop="20201231125900 -0600" channel="CINEMAX">
-    <title lang="es">Robo en las alturas</title>
+  <programme start="20210106190000 -0600" stop="20210106205400 -0600" channel="Warner channenel">
+    <title lang="es">Dos Armas Letales</title>
   </programme>
-  <programme start="20201231125900 -0600" stop="20201231153300 -0600" channel="CINEMAX">
-    <title lang="es">Olimpo bajo fuego</title>
+  <programme start="20210106205400 -0600" stop="20210106213800 -0600" channel="Warner channenel">
+    <title lang="es">All American</title>
   </programme>
-  <programme start="20201231153300 -0600" stop="20201231174700 -0600" channel="CINEMAX">
-    <title lang="es">Rápido y furioso Reto Tokio</title>
+  <programme start="20210106213800 -0600" stop="20210106220100 -0600" channel="Warner channenel">
+    <title lang="es">Brooklyn nine-nine</title>
   </programme>
-  <programme start="20201231174700 -0600" stop="20201231200000 -0600" channel="CINEMAX">
-    <title lang="es">Linea de fuego</title>
+  <programme start="20210106220100 -0600" stop="20210106224900 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210106224900 -0600" stop="20210106231200 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210106231200 -0600" stop="20210106233500 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210106233500 -0600" stop="20210106235900 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210106235900 -0600" stop="20210107002200 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107002200 -0600" stop="20210107004100 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107004100 -0600" stop="20210107010300 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107010300 -0600" stop="20210107012500 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107012500 -0600" stop="20210107030000 -0600" channel="Warner channenel">
+    <title lang="es">Search party</title>
+  </programme>
+  <programme start="20210107030000 -0600" stop="20210107043300 -0600" channel="Warner channenel">
+    <title lang="es">Search party</title>
+  </programme>
+  <programme start="20210107043300 -0600" stop="20210107045100 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107045100 -0600" stop="20210107051300 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107051300 -0600" stop="20210107053400 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107053400 -0600" stop="20210107055700 -0600" channel="Warner channenel">
+    <title lang="es">Mom</title>
+  </programme>
+  <programme start="20210107055700 -0600" stop="20210107061700 -0600" channel="Warner channenel">
+    <title lang="es">Young Sheldon</title>
+  </programme>
+  <programme start="20210107061700 -0600" stop="20210107064000 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107064000 -0600" stop="20210107070400 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107070400 -0600" stop="20210107072800 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107072800 -0600" stop="20210107075300 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107075300 -0600" stop="20210107093500 -0600" channel="Warner channenel">
+    <title lang="es">La Jefa</title>
+  </programme>
+  <programme start="20210107093500 -0600" stop="20210107114200 -0600" channel="Warner channenel">
+    <title lang="es">Desafío al tiempo</title>
+  </programme>
+  <programme start="20210107114200 -0600" stop="20210107120500 -0600" channel="Warner channenel">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20210107120500 -0600" stop="20210107122900 -0600" channel="Warner channenel">
+    <title lang="es">Superstore</title>
+  </programme>
+  <programme start="20210107122900 -0600" stop="20210107125400 -0600" channel="Warner channenel">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210107125400 -0600" stop="20210107131900 -0600" channel="Warner channenel">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210107131900 -0600" stop="20210107134200 -0600" channel="Warner channenel">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210107134200 -0600" stop="20210107140200 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107140200 -0600" stop="20210107142600 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107142600 -0600" stop="20210107145000 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107145000 -0600" stop="20210107151300 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107151300 -0600" stop="20210107170600 -0600" channel="Warner channenel">
+    <title lang="es">Colombiana</title>
+  </programme>
+  <programme start="20210107170600 -0600" stop="20210107190000 -0600" channel="Warner channenel">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20210107190000 -0600" stop="20210107205000 -0600" channel="Warner channenel">
+    <title lang="es">300: El Nacimiento de un Imperio</title>
+  </programme>
+  <programme start="20210107205000 -0600" stop="20210107213600 -0600" channel="Warner channenel">
+    <title lang="es">The 100</title>
+  </programme>
+  <programme start="20210107213600 -0600" stop="20210107215900 -0600" channel="Warner channenel">
+    <title lang="es">Brooklyn nine-nine</title>
+  </programme>
+  <programme start="20210107215900 -0600" stop="20210107222300 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107222300 -0600" stop="20210107224600 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107224600 -0600" stop="20210107230900 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107230900 -0600" stop="20210107233300 -0600" channel="Warner channenel">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210107233300 -0600" stop="20210107235400 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210107235400 -0600" stop="20210108001500 -0600" channel="Warner channenel">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210106013900 -0600" stop="20210106020000 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210106020000 -0600" stop="20210106022100 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210106022100 -0600" stop="20210106024600 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210106024600 -0600" stop="20210106030700 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210106030700 -0600" stop="20210106033200 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210106033200 -0600" stop="20210106035300 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210106035300 -0600" stop="20210106043600 -0600" channel="Fx">
+    <title lang="es">American Horror Story: 1984</title>
+  </programme>
+  <programme start="20210106043600 -0600" stop="20210106052200 -0600" channel="Fx">
+    <title lang="es">American Horror Story: 1984</title>
+  </programme>
+  <programme start="20210106052200 -0600" stop="20210106060300 -0600" channel="Fx">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210106060300 -0600" stop="20210106070000 -0600" channel="Fx">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210106070000 -0600" stop="20210106083100 -0600" channel="Fx">
+    <title lang="es">Guía para observadores de aves</title>
+  </programme>
+  <programme start="20210106083100 -0600" stop="20210106091100 -0600" channel="Fx">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210106091100 -0600" stop="20210106104600 -0600" channel="Fx">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210106104600 -0600" stop="20210106111100 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210106111100 -0600" stop="20210106113500 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210106113500 -0600" stop="20210106115400 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210106115400 -0600" stop="20210106121700 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210106121700 -0600" stop="20210106130300 -0600" channel="Fx">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210106130300 -0600" stop="20210106135300 -0600" channel="Fx">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210106135300 -0600" stop="20210106141700 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210106141700 -0600" stop="20210106144300 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210106144300 -0600" stop="20210106150700 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210106150700 -0600" stop="20210106153000 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210106153000 -0600" stop="20210106172000 -0600" channel="Fx">
+    <title lang="es">La vigilante del futuro</title>
+  </programme>
+  <programme start="20210106172000 -0600" stop="20210106192700 -0600" channel="Fx">
+    <title lang="es">La historia de Vinny Pazienza</title>
+  </programme>
+  <programme start="20210106192700 -0600" stop="20210106220000 -0600" channel="Fx">
+    <title lang="es">Kingsman: El Círculo Dorado</title>
+  </programme>
+  <programme start="20210106220000 -0600" stop="20210107001400 -0600" channel="Fx">
+    <title lang="es">Loco por Mary</title>
+  </programme>
+  <programme start="20210107220000 -0600" stop="20210108001400 -0600" channel="Fx">
+    <title lang="es">Loco por Mary</title>
+  </programme>
+  <programme start="20210108001400 -0600" stop="20210108021300 -0600" channel="Fx">
+    <title lang="es">¡Huye</title>
+  </programme>
+  <programme start="20210108021300 -0600" stop="20210108023400 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210108023400 -0600" stop="20210108025800 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210108025800 -0600" stop="20210108032000 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210108032000 -0600" stop="20210108034300 -0600" channel="Fx">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210108034300 -0600" stop="20210108042800 -0600" channel="Fx">
+    <title lang="es">American Horror Story: 1984</title>
+  </programme>
+  <programme start="20210108042800 -0600" stop="20210108050600 -0600" channel="Fx">
+    <title lang="es">American Horror Story: 1984</title>
+  </programme>
+  <programme start="20210108050600 -0600" stop="20210108054600 -0600" channel="Fx">
+    <title lang="es">American Horror Story: 1984</title>
+  </programme>
+  <programme start="20210108054600 -0600" stop="20210108061300 -0600" channel="Fx">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210108061300 -0600" stop="20210108070000 -0600" channel="Fx">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210108070000 -0600" stop="20210108095900 -0600" channel="Fx">
+    <title lang="es">El Hobbit: Un Viaje Inesperado</title>
+  </programme>
+  <programme start="20210108095900 -0600" stop="20210108104800 -0600" channel="Fx">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210108104800 -0600" stop="20210108113300 -0600" channel="Fx">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210108113300 -0600" stop="20210108115200 -0600" channel="Fx">
+    <title lang="es">Perfect Harmony</title>
+  </programme>
+  <programme start="20210108115200 -0600" stop="20210108121500 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210108121500 -0600" stop="20210108124100 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210108124100 -0600" stop="20210108125900 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210108125900 -0600" stop="20210108132200 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210108132200 -0600" stop="20210108140600 -0600" channel="Fx">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210108140600 -0600" stop="20210108145500 -0600" channel="Fx">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210108145500 -0600" stop="20210108152100 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210108152100 -0600" stop="20210108154700 -0600" channel="Fx">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210108154700 -0600" stop="20210108160800 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210108160800 -0600" stop="20210108163200 -0600" channel="Fx">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210108163200 -0600" stop="20210108175400 -0600" channel="Fx">
+    <title lang="es">Cloverfield monstruo</title>
+  </programme>
+  <programme start="20210108175400 -0600" stop="20210108200300 -0600" channel="Fx">
+    <title lang="es">La Llegada (2016)</title>
+  </programme>
+  <programme start="20210108200300 -0600" stop="20210108220000 -0600" channel="Fx">
+    <title lang="es">El Depredador</title>
+  </programme>
+  <programme start="20210108220000 -0600" stop="20210109010000 -0600" channel="Fx">
+    <title lang="es">Blade Runner 2049</title>
+  </programme>
+  <programme start="20210106021500 -0600" stop="20210106040000 -0600" channel="Paramount">
+    <title lang="es">Diana</title>
+  </programme>
+  <programme start="20210106040000 -0600" stop="20210106043000 -0600" channel="Paramount">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20210106043000 -0600" stop="20210106050000 -0600" channel="Paramount">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20210106050000 -0600" stop="20210106053000 -0600" channel="Paramount">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20210106053000 -0600" stop="20210106060000 -0600" channel="Paramount">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20210106060000 -0600" stop="20210106083000 -0600" channel="Paramount">
+    <title lang="es">El gangster</title>
+  </programme>
+  <programme start="20210106083000 -0600" stop="20210106103000 -0600" channel="Paramount">
+    <title lang="es">Asesino a sueldo</title>
+  </programme>
+  <programme start="20210106103000 -0600" stop="20210106124500 -0600" channel="Paramount">
+    <title lang="es">Cuenta final</title>
+  </programme>
+  <programme start="20210106124500 -0600" stop="20210106144500 -0600" channel="Paramount">
+    <title lang="es">Terminator: La Salvación</title>
+  </programme>
+  <programme start="20210106144500 -0600" stop="20210106164500 -0600" channel="Paramount">
+    <title lang="es">Doble impacto</title>
+  </programme>
+  <programme start="20210106164500 -0600" stop="20210106183000 -0600" channel="Paramount">
+    <title lang="es">Cocodrilo Dundee</title>
+  </programme>
+  <programme start="20210106183000 -0600" stop="20210106204500 -0600" channel="Paramount">
+    <title lang="es">Una propuesta indecorosa</title>
+  </programme>
+  <programme start="20210106204500 -0600" stop="20210106223000 -0600" channel="Paramount">
+    <title lang="es">Doble Riesgo</title>
+  </programme>
+  <programme start="20210106223000 -0600" stop="20210107003000 -0600" channel="Paramount">
+    <title lang="es">Ciudad de sombras</title>
+  </programme>
+  <programme start="20210107003000 -0600" stop="20210107030000 -0600" channel="Paramount">
+    <title lang="es">Causas y consecuencias</title>
+  </programme>
+  <programme start="20210107030000 -0600" stop="20210107050000 -0600" channel="Paramount">
+    <title lang="es">The Four 3</title>
+  </programme>
+  <programme start="20210107050000 -0600" stop="20210107053000 -0600" channel="Paramount">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20210107053000 -0600" stop="20210107060000 -0600" channel="Paramount">
+    <title lang="es">Paramount Soundtrack</title>
+  </programme>
+  <programme start="20210107060000 -0600" stop="20210107074500 -0600" channel="Paramount">
+    <title lang="es">Chef a domicilio</title>
+  </programme>
+  <programme start="20210107074500 -0600" stop="20210107094500 -0600" channel="Paramount">
+    <title lang="es">Ciudad de sombras</title>
+  </programme>
+  <programme start="20210107094500 -0600" stop="20210107114500 -0600" channel="Paramount">
+    <title lang="es">Terminator: La Salvación</title>
+  </programme>
+  <programme start="20210107114500 -0600" stop="20210107134500 -0600" channel="Paramount">
+    <title lang="es">Doble impacto</title>
+  </programme>
+  <programme start="20210107134500 -0600" stop="20210107153000 -0600" channel="Paramount">
+    <title lang="es">Young ones</title>
+  </programme>
+  <programme start="20210107153000 -0600" stop="20210107173000 -0600" channel="Paramount">
+    <title lang="es">Doble Riesgo</title>
+  </programme>
+  <programme start="20210107173000 -0600" stop="20210107193000 -0600" channel="Paramount">
+    <title lang="es">Serena</title>
+  </programme>
+  <programme start="20210107193000 -0600" stop="20210107220000 -0600" channel="Paramount">
+    <title lang="es">Las torres gemelas</title>
+  </programme>
+  <programme start="20210107220000 -0600" stop="20210108000000 -0600" channel="Paramount">
+    <title lang="es">Joe</title>
+  </programme>
+  <programme start="20210106003600 -0600" stop="20210106010100 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106010100 -0600" stop="20210106012400 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106012400 -0600" stop="20210106014900 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106014900 -0600" stop="20210106021400 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106021400 -0600" stop="20210106022400 -0600" channel="Tcm">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210106022400 -0600" stop="20210106030000 -0600" channel="Tcm">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210106030000 -0600" stop="20210106032100 -0600" channel="Tcm">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210106032100 -0600" stop="20210106043800 -0600" channel="Tcm">
+    <title lang="es">El secreto del jinete</title>
+  </programme>
+  <programme start="20210106043800 -0600" stop="20210106050500 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106050500 -0600" stop="20210106053200 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106053200 -0600" stop="20210106055900 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106055900 -0600" stop="20210106062600 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210106062600 -0600" stop="20210106072000 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210106072000 -0600" stop="20210106081200 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210106081200 -0600" stop="20210106110300 -0600" channel="Tcm">
+    <title lang="es">Donde las águilas se atreven</title>
+  </programme>
+  <programme start="20210106110300 -0600" stop="20210106124900 -0600" channel="Tcm">
+    <title lang="es">La pícara puritana</title>
+  </programme>
+  <programme start="20210106124900 -0600" stop="20210106145800 -0600" channel="Tcm">
+    <title lang="es">Gerónimo: Una Leyenda Americana</title>
+  </programme>
+  <programme start="20210106145800 -0600" stop="20210106170600 -0600" channel="Tcm">
+    <title lang="es">Los Goonies</title>
+  </programme>
+  <programme start="20210106170600 -0600" stop="20210106180300 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210106180300 -0600" stop="20210106190000 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210106190000 -0600" stop="20210106205500 -0600" channel="Tcm">
+    <title lang="es">Laberinto</title>
+  </programme>
+  <programme start="20210106205500 -0600" stop="20210106230400 -0600" channel="Tcm">
+    <title lang="es">Entrevista con el vampiro</title>
+  </programme>
+  <programme start="20210106230400 -0600" stop="20210107003800 -0600" channel="Tcm">
+    <title lang="es">La revancha de Frankenstein</title>
+  </programme>
+  <programme start="20210107230400 -0600" stop="20210108003800 -0600" channel="Tcm">
+    <title lang="es">La revancha de Frankenstein</title>
+  </programme>
+  <programme start="20210108003800 -0600" stop="20210108010500 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108010500 -0600" stop="20210108013100 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108013100 -0600" stop="20210108015800 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108015800 -0600" stop="20210108022400 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108022400 -0600" stop="20210108030000 -0600" channel="Tcm">
+    <title lang="es">Hollywood one on one</title>
+  </programme>
+  <programme start="20210108030000 -0600" stop="20210108040300 -0600" channel="Tcm">
+    <title lang="es">El séptimo de caballería</title>
+  </programme>
+  <programme start="20210108040300 -0600" stop="20210108060600 -0600" channel="Tcm">
+    <title lang="es">Gerónimo: Una Leyenda Americana</title>
+  </programme>
+  <programme start="20210108060600 -0600" stop="20210108063300 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108063300 -0600" stop="20210108070000 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108070000 -0600" stop="20210108072700 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108072700 -0600" stop="20210108075400 -0600" channel="Tcm">
+    <title lang="es">Mad about you</title>
+  </programme>
+  <programme start="20210108075400 -0600" stop="20210108084800 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210108084800 -0600" stop="20210108094300 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210108094300 -0600" stop="20210108112700 -0600" channel="Tcm">
+    <title lang="es">La pícara puritana</title>
+  </programme>
+  <programme start="20210108112700 -0600" stop="20210108131200 -0600" channel="Tcm">
+    <title lang="es">Buenos Días Tristeza</title>
+  </programme>
+  <programme start="20210108131200 -0600" stop="20210108151200 -0600" channel="Tcm">
+    <title lang="es">Ricky Bobby: Loco por la velocidad</title>
+  </programme>
+  <programme start="20210108151200 -0600" stop="20210108170600 -0600" channel="Tcm">
+    <title lang="es">Laberinto</title>
+  </programme>
+  <programme start="20210108170600 -0600" stop="20210108180300 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210108180300 -0600" stop="20210108190000 -0600" channel="Tcm">
+    <title lang="es">Starsky &amp; Hutch</title>
+  </programme>
+  <programme start="20210108190000 -0600" stop="20210108211700 -0600" channel="Tcm">
+    <title lang="es">Entrevista con el vampiro</title>
+  </programme>
+  <programme start="20210108211700 -0600" stop="20210108225200 -0600" channel="Tcm">
+    <title lang="es">La revancha de Frankenstein</title>
+  </programme>
+  <programme start="20210108225200 -0600" stop="20210109005000 -0600" channel="Tcm">
+    <title lang="es">De repente, el último verano</title>
+  </programme>
+  <programme start="20210106000300 -0600" stop="20210106015200 -0600" channel="Fox Premium Action">
+    <title lang="es">Nada es lo que parece</title>
+  </programme>
+  <programme start="20210106015200 -0600" stop="20210106033700 -0600" channel="Fox Premium Action">
+    <title lang="es">Escupiré sobre tu tumba 2</title>
+  </programme>
+  <programme start="20210106033700 -0600" stop="20210106042600 -0600" channel="Fox Premium Action">
+    <title lang="es">Countdown UFC 256 Deiveson Fi</title>
+  </programme>
+  <programme start="20210106042600 -0600" stop="20210106060600 -0600" channel="Fox Premium Action">
+    <title lang="es">Beyond the call to duty</title>
+  </programme>
+  <programme start="20210106060600 -0600" stop="20210106073500 -0600" channel="Fox Premium Action">
+    <title lang="es">Un amor del pasado</title>
+  </programme>
+  <programme start="20210106073500 -0600" stop="20210106091700 -0600" channel="Fox Premium Action">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210106091700 -0600" stop="20210106110600 -0600" channel="Fox Premium Action">
+    <title lang="es">El robo del siglo</title>
+  </programme>
+  <programme start="20210106110600 -0600" stop="20210106123200 -0600" channel="Fox Premium Action">
+    <title lang="es">Misión Babilonia</title>
+  </programme>
+  <programme start="20210106123200 -0600" stop="20210106140800 -0600" channel="Fox Premium Action">
+    <title lang="es">222 premonición</title>
+  </programme>
+  <programme start="20210106140800 -0600" stop="20210106154700 -0600" channel="Fox Premium Action">
+    <title lang="es">Estigma</title>
+  </programme>
+  <programme start="20210106154700 -0600" stop="20210106172600 -0600" channel="Fox Premium Action">
+    <title lang="es">Cementerio maldito</title>
+  </programme>
+  <programme start="20210106172600 -0600" stop="20210106190000 -0600" channel="Fox Premium Action">
+    <title lang="es">Alucinaciones</title>
+  </programme>
+  <programme start="20210106190000 -0600" stop="20210106210800 -0600" channel="Fox Premium Action">
+    <title lang="es">Jack Reacher</title>
+  </programme>
+  <programme start="20210106210800 -0600" stop="20210106223900 -0600" channel="Fox Premium Action">
+    <title lang="es">Ghost Rider Espíritu de</title>
+  </programme>
+  <programme start="20210106223900 -0600" stop="20210107000900 -0600" channel="Fox Premium Action">
+    <title lang="es">La fría luz del día</title>
+  </programme>
+  <programme start="20210107223900 -0600" stop="20210108000900 -0600" channel="Fox Premium Action">
+    <title lang="es">La fría luz del día</title>
+  </programme>
+  <programme start="20210108000900 -0600" stop="20210108014700 -0600" channel="Fox Premium Action">
+    <title lang="es">Duro de matar 5</title>
+  </programme>
+  <programme start="20210108014700 -0600" stop="20210108032900 -0600" channel="Fox Premium Action">
+    <title lang="es">Marcado por la muerte</title>
+  </programme>
+  <programme start="20210108032900 -0600" stop="20210108050600 -0600" channel="Fox Premium Action">
+    <title lang="es">Desde México con amor</title>
+  </programme>
+  <programme start="20210108050600 -0600" stop="20210108053700 -0600" channel="Fox Premium Action">
+    <title lang="es">Empire of Lust</title>
+  </programme>
+  <programme start="20210108053700 -0600" stop="20210108070000 -0600" channel="Fox Premium Action">
+    <title lang="es">A.I.: Inteligencia artificial</title>
+  </programme>
+  <programme start="20210108070000 -0600" stop="20210108082700 -0600" channel="Fox Premium Action">
+    <title lang="es">Un amor del pasado</title>
+  </programme>
+  <programme start="20210108082700 -0600" stop="20210108100200 -0600" channel="Fox Premium Action">
+    <title lang="es">Un grito lejano</title>
+  </programme>
+  <programme start="20210108100200 -0600" stop="20210108115300 -0600" channel="Fox Premium Action">
+    <title lang="es">Marcado por la muerte</title>
+  </programme>
+  <programme start="20210108115300 -0600" stop="20210108133600 -0600" channel="Fox Premium Action">
+    <title lang="es">Escupiré sobre tu tumba 2</title>
+  </programme>
+  <programme start="20210108133600 -0600" stop="20210108152700 -0600" channel="Fox Premium Action">
+    <title lang="es">Azul Extremo</title>
+  </programme>
+  <programme start="20210108152700 -0600" stop="20210108170400 -0600" channel="Fox Premium Action">
+    <title lang="es">Duro de matar 5</title>
+  </programme>
+  <programme start="20210108170400 -0600" stop="20210108190000 -0600" channel="Fox Premium Action">
+    <title lang="es">The Last Full Measure</title>
+  </programme>
+  <programme start="20210108190000 -0600" stop="20210108205000 -0600" channel="Fox Premium Action">
+    <title lang="es">Red 2</title>
+  </programme>
+  <programme start="20210108205000 -0600" stop="20210109004800 -0600" channel="Fox Premium Action">
+    <title lang="es">Jack Reacher</title>
+  </programme>
+  <programme start="20210106000900 -0600" stop="20210106021700 -0600" channel="Fox Premium Cinema">
+    <title lang="es">El amor menos pensado</title>
+  </programme>
+  <programme start="20210106021700 -0600" stop="20210106033300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Lovelace Garganta profunda</title>
+  </programme>
+  <programme start="20210106033300 -0600" stop="20210106041900 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Sitiados</title>
+  </programme>
+  <programme start="20210106041900 -0600" stop="20210106062300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">De-Lovely vida y amores</title>
+  </programme>
+  <programme start="20210106062300 -0600" stop="20210106083200 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Cumbres borrascosas</title>
+  </programme>
+  <programme start="20210106083200 -0600" stop="20210106100100 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Crossword Mysteries Abracadav</title>
+  </programme>
+  <programme start="20210106100100 -0600" stop="20210106115000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">El Cisne negro</title>
+  </programme>
+  <programme start="20210106115000 -0600" stop="20210106133800 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Viviendo con el enemigo</title>
+  </programme>
+  <programme start="20210106133800 -0600" stop="20210106160800 -0600" channel="Fox Premium Cinema">
+    <title lang="es">La sospecha</title>
+  </programme>
+  <programme start="20210106160800 -0600" stop="20210106190000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Una Vida Oculta</title>
+  </programme>
+  <programme start="20210106190000 -0600" stop="20210106204500 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Borg McEnroe La Película</title>
+  </programme>
+  <programme start="20210106204500 -0600" stop="20210106222600 -0600" channel="Fox Premium Cinema">
+    <title lang="es">La Espía Roja</title>
+  </programme>
+  <programme start="20210106222600 -0600" stop="20210106235300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Ginger &amp; Rosa</title>
+  </programme>
+  <programme start="20210106235300 -0600" stop="20210107014000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">La reina del miedo</title>
+  </programme>
+  <programme start="20210107014000 -0600" stop="20210107030000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Tren nocturno a Lisboa</title>
+  </programme>
+  <programme start="20210107030000 -0600" stop="20210107042400 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Jamón, jamón</title>
+  </programme>
+  <programme start="20210107042400 -0600" stop="20210107055300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Crossword Mysteries</title>
+  </programme>
+  <programme start="20210107055300 -0600" stop="20210107073700 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210107073700 -0600" stop="20210107091800 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Amores asesinos</title>
+  </programme>
+  <programme start="20210107091800 -0600" stop="20210107105300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Todas as Canções de Amor</title>
+  </programme>
+  <programme start="20210107105300 -0600" stop="20210107122300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">La puerta abierta</title>
+  </programme>
+  <programme start="20210107122300 -0600" stop="20210107140000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Glass Houses</title>
+  </programme>
+  <programme start="20210107140000 -0600" stop="20210107155000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Animal</title>
+  </programme>
+  <programme start="20210107155000 -0600" stop="20210107172100 -0600" channel="Fox Premium Cinema">
+    <title lang="es">A Vigilante</title>
+  </programme>
+  <programme start="20210107172100 -0600" stop="20210107190000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">The Lead</title>
+  </programme>
+  <programme start="20210107190000 -0600" stop="20210107210900 -0600" channel="Fox Premium Cinema">
+    <title lang="es">El amor menos pensado</title>
+  </programme>
+  <programme start="20210107210900 -0600" stop="20210107223800 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Amor de Película</title>
+  </programme>
+  <programme start="20210107223800 -0600" stop="20210108003500 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Pecado original</title>
+  </programme>
+  <programme start="20210106011600 -0600" stop="20210106032500 -0600" channel="Fox Premium Comedy">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210106032500 -0600" stop="20210106045500 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Sense, Sensibility &amp; Snowmen</title>
+  </programme>
+  <programme start="20210106045500 -0600" stop="20210106052000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20210106052000 -0600" stop="20210106063000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Los Hámsters</title>
+  </programme>
+  <programme start="20210106063000 -0600" stop="20210106075000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">30 y Viviendo en Casa</title>
+  </programme>
+  <programme start="20210106075000 -0600" stop="20210106091900 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Christmas in Rome</title>
+  </programme>
+  <programme start="20210106091900 -0600" stop="20210106104600 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Sobreviviendo a la Navidad</title>
+  </programme>
+  <programme start="20210106104600 -0600" stop="20210106124200 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Más sabe el Diablo por Viejo</title>
+  </programme>
+  <programme start="20210106124200 -0600" stop="20210106140700 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Los Tuyos, Los Mios</title>
+  </programme>
+  <programme start="20210106140700 -0600" stop="20210106155100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Fin de semana en familia</title>
+  </programme>
+  <programme start="20210106155100 -0600" stop="20210106172300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Imagínatelo</title>
+  </programme>
+  <programme start="20210106172300 -0600" stop="20210106190000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">The Inbetweeners</title>
+  </programme>
+  <programme start="20210106190000 -0600" stop="20210106205000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">¡Mamma Mía! Vamos Otra Vez</title>
+  </programme>
+  <programme start="20210106205000 -0600" stop="20210106221300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Una loca película épica</title>
+  </programme>
+  <programme start="20210106221300 -0600" stop="20210106234200 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20210106234200 -0600" stop="20210107010000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">No es otra película de amor</title>
+  </programme>
+  <programme start="20210107010000 -0600" stop="20210107025000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">El Hombre que Mató a Don Q</title>
+  </programme>
+  <programme start="20210107025000 -0600" stop="20210107040800 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <programme start="20210107040800 -0600" stop="20210107054500 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Yo, Mi mujer y Mi mujer muerta</title>
+  </programme>
+  <programme start="20210107054500 -0600" stop="20210107070700 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Ass Backwards</title>
+  </programme>
+  <programme start="20210107070700 -0600" stop="20210107084300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Mi novio es un zombie</title>
+  </programme>
+  <programme start="20210107084300 -0600" stop="20210107100100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Reno 911! Miami</title>
+  </programme>
+  <programme start="20210107100100 -0600" stop="20210107112600 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Tan muertos como yo</title>
+  </programme>
+  <programme start="20210107112600 -0600" stop="20210107132200 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Madea protección de testigos</title>
+  </programme>
+  <programme start="20210107132200 -0600" stop="20210107150800 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Conquistando a mi suegro</title>
+  </programme>
+  <programme start="20210107150800 -0600" stop="20210107171700 -0600" channel="Fox Premium Comedy">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210107171700 -0600" stop="20210107190000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">¿Bailamos</title>
+  </programme>
+  <programme start="20210107190000 -0600" stop="20210107205100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20210107205100 -0600" stop="20210107221400 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Una pareja infernal</title>
+  </programme>
+  <programme start="20210107221400 -0600" stop="20210108012400 -0600" channel="Fox Premium Comedy">
+    <title lang="es">De tonta, nada</title>
+  </programme>
+  <programme start="20210106003400 -0600" stop="20210106020300 -0600" channel="Fox Premium Family">
+    <title lang="es">Christmas 9 to 5</title>
+  </programme>
+  <programme start="20210106020300 -0600" stop="20210106033500 -0600" channel="Fox Premium Family">
+    <title lang="es">Jesus Henry Christ</title>
+  </programme>
+  <programme start="20210106033500 -0600" stop="20210106050400 -0600" channel="Fox Premium Family">
+    <title lang="es">Guerra de comida</title>
+  </programme>
+  <programme start="20210106050400 -0600" stop="20210106061900 -0600" channel="Fox Premium Family">
+    <title lang="es">THOR Historias de Asgard</title>
+  </programme>
+  <programme start="20210106061900 -0600" stop="20210106074000 -0600" channel="Fox Premium Family">
+    <title lang="es">Leyendas de Valhalla Thor</title>
+  </programme>
+  <programme start="20210106074000 -0600" stop="20210106091300 -0600" channel="Fox Premium Family">
+    <title lang="es">Fluke Un tiro de suerte</title>
+  </programme>
+  <programme start="20210106091300 -0600" stop="20210106105600 -0600" channel="Fox Premium Family">
+    <title lang="es">The Cup</title>
+  </programme>
+  <programme start="20210106105600 -0600" stop="20210106122000 -0600" channel="Fox Premium Family">
+    <title lang="es">Love Under the Olive Tree</title>
+  </programme>
+  <programme start="20210106122000 -0600" stop="20210106140900 -0600" channel="Fox Premium Family">
+    <title lang="es">Nada es lo que parece</title>
+  </programme>
+  <programme start="20210106140900 -0600" stop="20210106163000 -0600" channel="Fox Premium Family">
+    <title lang="es">A.I.: Inteligencia artificial</title>
+  </programme>
+  <programme start="20210106163000 -0600" stop="20210106180000 -0600" channel="Fox Premium Family">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20210106180000 -0600" stop="20210106194800 -0600" channel="Fox Premium Family">
+    <title lang="es">El increíble Hulk</title>
+  </programme>
+  <programme start="20210106194800 -0600" stop="20210106214200 -0600" channel="Fox Premium Family">
+    <title lang="es">Juegos del Hambre: Sinsajo 1</title>
+  </programme>
+  <programme start="20210106214200 -0600" stop="20210106233000 -0600" channel="Fox Premium Family">
+    <title lang="es">Las aventuras de Chris Fable</title>
+  </programme>
+  <programme start="20210106233000 -0600" stop="20210107010400 -0600" channel="Fox Premium Family">
+    <title lang="es">Ella es así</title>
+  </programme>
+  <programme start="20210107233000 -0600" stop="20210108010400 -0600" channel="Fox Premium Family">
+    <title lang="es">Ella es así</title>
+  </programme>
+  <programme start="20210108010400 -0600" stop="20210108224000 -0600" channel="Fox Premium Family">
+    <title lang="es">Liberal Arts</title>
+  </programme>
+  <programme start="20210108224000 -0600" stop="20210109015000 -0600" channel="Fox Premium Family">
+    <title lang="es">La Navidad de Madea</title>
+  </programme>
+  <programme start="20210106001700 -0600" stop="20210106010200 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210106010200 -0600" stop="20210106014700 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210106014700 -0600" stop="20210106023300 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210106023300 -0600" stop="20210106032000 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210106032000 -0600" stop="20210106034500 -0600" channel="Fox Premium Series">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20210106034500 -0600" stop="20210106043700 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106043700 -0600" stop="20210106051900 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106051900 -0600" stop="20210106060500 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106060500 -0600" stop="20210106064800 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106064800 -0600" stop="20210106073200 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106073200 -0600" stop="20210106081500 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106081500 -0600" stop="20210106090000 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106090000 -0600" stop="20210106094300 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106094300 -0600" stop="20210106102800 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106102800 -0600" stop="20210106111100 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106111100 -0600" stop="20210106115600 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106115600 -0600" stop="20210106123900 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106123900 -0600" stop="20210106132400 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106132400 -0600" stop="20210106140700 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106140700 -0600" stop="20210106145100 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106145100 -0600" stop="20210106153400 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106153400 -0600" stop="20210106161900 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106161900 -0600" stop="20210106170300 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106170300 -0600" stop="20210106175000 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106175000 -0600" stop="20210106183300 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106183300 -0600" stop="20210106191600 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106191600 -0600" stop="20210106200000 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106200000 -0600" stop="20210106204200 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106204200 -0600" stop="20210106212500 -0600" channel="Fox Premium Series">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210106212500 -0600" stop="20210106221300 -0600" channel="Fox Premium Series">
+    <title lang="es">Devs</title>
+  </programme>
+  <programme start="20210106221300 -0600" stop="20210106231700 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20210106231700 -0600" stop="20210107001000 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20210107001000 -0600" stop="20210107010200 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20210107010200 -0600" stop="20210107015000 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20210107015000 -0600" stop="20210107023900 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20210107023900 -0600" stop="20210107033900 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210107033900 -0600" stop="20210107045000 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107045000 -0600" stop="20210107053700 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107053700 -0600" stop="20210107062400 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107062400 -0600" stop="20210107071000 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107071000 -0600" stop="20210107075500 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107075500 -0600" stop="20210107083800 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107083800 -0600" stop="20210107092500 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107092500 -0600" stop="20210107100800 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107100800 -0600" stop="20210107105000 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107105000 -0600" stop="20210107113300 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107113300 -0600" stop="20210107121700 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107121700 -0600" stop="20210107125800 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107125800 -0600" stop="20210107134200 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107134200 -0600" stop="20210107142300 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107142300 -0600" stop="20210107150700 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107150700 -0600" stop="20210107154800 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107154800 -0600" stop="20210107163300 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107163300 -0600" stop="20210107171800 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107171800 -0600" stop="20210107180300 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107180300 -0600" stop="20210107190000 -0600" channel="Fox Premium Series">
+    <title lang="es">Godfather of Harlem</title>
+  </programme>
+  <programme start="20210107190000 -0600" stop="20210107194700 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210107194700 -0600" stop="20210107203200 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210107203200 -0600" stop="20210107211600 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210107211600 -0600" stop="20210107215900 -0600" channel="Fox Premium Series">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210107215900 -0600" stop="20210107224800 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20210107224800 -0600" stop="20210107233800 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20210107233800 -0600" stop="20210108002600 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20210106002500 -0600" stop="20210106020600 -0600" channel="Fox Premium Movies">
+    <title lang="es">Daredevil El Hombre Sin Miedo</title>
+  </programme>
+  <programme start="20210106020600 -0600" stop="20210106041700 -0600" channel="Fox Premium Movies">
+    <title lang="es">Lucy in the Sky</title>
+  </programme>
+  <programme start="20210106041700 -0600" stop="20210106060200 -0600" channel="Fox Premium Movies">
+    <title lang="es">¿Podrás Perdonarme</title>
+  </programme>
+  <programme start="20210106060200 -0600" stop="20210106085600 -0600" channel="Fox Premium Movies">
+    <title lang="es">A Christmas Carol</title>
+  </programme>
+  <programme start="20210106085600 -0600" stop="20210106104200 -0600" channel="Fox Premium Movies">
+    <title lang="es">¿Dónde Estás, Bernadette</title>
+  </programme>
+  <programme start="20210106104200 -0600" stop="20210106120300 -0600" channel="Fox Premium Movies">
+    <title lang="es">Parque Mágico</title>
+  </programme>
+  <programme start="20210106120300 -0600" stop="20210106132600 -0600" channel="Fox Premium Movies">
+    <title lang="es">Los locos Addams</title>
+  </programme>
+  <programme start="20210106132600 -0600" stop="20210106144900 -0600" channel="Fox Premium Movies">
+    <title lang="es">Cuesta abajo</title>
+  </programme>
+  <programme start="20210106144900 -0600" stop="20210106161000 -0600" channel="Fox Premium Movies">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20210106161000 -0600" stop="20210106173500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Trolls</title>
+  </programme>
+  <programme start="20210106173500 -0600" stop="20210106190000 -0600" channel="Fox Premium Movies">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20210106190000 -0600" stop="20210106202700 -0600" channel="Fox Premium Movies">
+    <title lang="es">Kung Fu Panda</title>
+  </programme>
+  <programme start="20210106202700 -0600" stop="20210106215200 -0600" channel="Fox Premium Movies">
+    <title lang="es">Kung Fu Panda 2</title>
+  </programme>
+  <programme start="20210106215200 -0600" stop="20210106232100 -0600" channel="Fox Premium Movies">
+    <title lang="es">Minions</title>
+  </programme>
+  <programme start="20210106232100 -0600" stop="20210107011200 -0600" channel="Fox Premium Movies">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210107232100 -0600" stop="20210108011200 -0600" channel="Fox Premium Movies">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210108011200 -0600" stop="20210108025100 -0600" channel="Fox Premium Movies">
+    <title lang="es">Dragon Ball Super: Broly</title>
+  </programme>
+  <programme start="20210108025100 -0600" stop="20210108043400 -0600" channel="Fox Premium Movies">
+    <title lang="es">El guardián del zoológico</title>
+  </programme>
+  <programme start="20210108043400 -0600" stop="20210108055500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Nadie Camina</title>
+  </programme>
+  <programme start="20210108055500 -0600" stop="20210108073400 -0600" channel="Fox Premium Movies">
+    <title lang="es">La Noche de las Nerds</title>
+  </programme>
+  <programme start="20210108073400 -0600" stop="20210108093600 -0600" channel="Fox Premium Movies">
+    <title lang="es">Jobs</title>
+  </programme>
+  <programme start="20210108093600 -0600" stop="20210108105600 -0600" channel="Fox Premium Movies">
+    <title lang="es">Parque Mágico</title>
+  </programme>
+  <programme start="20210108105600 -0600" stop="20210108122500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Minions</title>
+  </programme>
+  <programme start="20210108122500 -0600" stop="20210108142400 -0600" channel="Fox Premium Movies">
+    <title lang="es">Silver Linings Playbook</title>
+  </programme>
+  <programme start="20210108142400 -0600" stop="20210108154700 -0600" channel="Fox Premium Movies">
+    <title lang="es">Socias en Guerra</title>
+  </programme>
+  <programme start="20210108154700 -0600" stop="20210108172500 -0600" channel="Fox Premium Movies">
+    <title lang="es">El Redentor</title>
+  </programme>
+  <programme start="20210108172500 -0600" stop="20210108190000 -0600" channel="Fox Premium Movies">
+    <title lang="es">222 premonición</title>
+  </programme>
+  <programme start="20210108190000 -0600" stop="20210108204700 -0600" channel="Fox Premium Movies">
+    <title lang="es">El ritmo de la venganza</title>
+  </programme>
+  <programme start="20210108204700 -0600" stop="20210108225000 -0600" channel="Fox Premium Movies">
+    <title lang="es">Sangre, sudor y gloria</title>
+  </programme>
+  <programme start="20210108225000 -0600" stop="20210109003500 -0600" channel="Fox Premium Movies">
+    <title lang="es">El Precio del Mañana</title>
+  </programme>
+  <programme start="20210106011500 -0600" stop="20210106030000 -0600" channel="Golden">
+    <title lang="es">Ella está encantada</title>
+  </programme>
+  <programme start="20210106030000 -0600" stop="20210106044200 -0600" channel="Golden">
+    <title lang="es">Amor de Mis Amores</title>
+  </programme>
+  <programme start="20210106044200 -0600" stop="20210106061200 -0600" channel="Golden">
+    <title lang="es">Pollitos En Fuga</title>
+  </programme>
+  <programme start="20210106061200 -0600" stop="20210106074900 -0600" channel="Golden">
+    <title lang="es">Norm of the North</title>
+  </programme>
+  <programme start="20210106074900 -0600" stop="20210106092200 -0600" channel="Golden">
+    <title lang="es">Nine Lives</title>
+  </programme>
+  <programme start="20210106092200 -0600" stop="20210106105500 -0600" channel="Golden">
+    <title lang="es">Stuart Little</title>
+  </programme>
+  <programme start="20210106105500 -0600" stop="20210106123900 -0600" channel="Golden">
+    <title lang="es">My Little Pony la película</title>
+  </programme>
+  <programme start="20210106123900 -0600" stop="20210106141100 -0600" channel="Golden">
+    <title lang="es">Locos Por Las Nueces</title>
+  </programme>
+  <programme start="20210106141100 -0600" stop="20210106154200 -0600" channel="Golden">
+    <title lang="es">Reyes de las olas</title>
+  </programme>
+  <programme start="20210106154200 -0600" stop="20210106171900 -0600" channel="Golden">
+    <title lang="es">Lluvia de Hamburguesas</title>
+  </programme>
+  <programme start="20210106171900 -0600" stop="20210106190000 -0600" channel="Golden">
+    <title lang="es">Las Aventuras del Capitán</title>
+  </programme>
+  <programme start="20210106190000 -0600" stop="20210106210000 -0600" channel="Golden">
+    <title lang="es">Jumanji</title>
+  </programme>
+  <programme start="20210106210000 -0600" stop="20210106225700 -0600" channel="Golden">
+    <title lang="es">Son como niños</title>
+  </programme>
+  <programme start="20210106225700 -0600" stop="20210107005100 -0600" channel="Golden">
+    <title lang="es">El gran pequeño</title>
+  </programme>
+  <programme start="20210107005100 -0600" stop="20210107025200 -0600" channel="Golden">
+    <title lang="es">Maten al Mensajero</title>
+  </programme>
+  <programme start="20210107025200 -0600" stop="20210107043900 -0600" channel="Golden">
+    <title lang="es">La pequeña detective</title>
+  </programme>
+  <programme start="20210107043900 -0600" stop="20210107063500 -0600" channel="Golden">
+    <title lang="es">3 Idiotas</title>
+  </programme>
+  <programme start="20210107063500 -0600" stop="20210107083100 -0600" channel="Golden">
+    <title lang="es">La familia Bélier</title>
+  </programme>
+  <programme start="20210107083100 -0600" stop="20210107101800 -0600" channel="Golden">
+    <title lang="es">Una vida mejor</title>
+  </programme>
+  <programme start="20210107101800 -0600" stop="20210107115900 -0600" channel="Golden">
+    <title lang="es">Marcelino</title>
+  </programme>
+  <programme start="20210107115900 -0600" stop="20210107134700 -0600" channel="Golden">
+    <title lang="es">El niño con el pijama de rayas</title>
+  </programme>
+  <programme start="20210107134700 -0600" stop="20210107154300 -0600" channel="Golden">
+    <title lang="es">Son como niños</title>
+  </programme>
+  <programme start="20210107154300 -0600" stop="20210107184500 -0600" channel="Golden">
+    <title lang="es">El Hobbit: Un Viaje Inesperado</title>
+  </programme>
+  <programme start="20210107184500 -0600" stop="20210107210000 -0600" channel="Golden">
+    <title lang="es">Eclipse</title>
+  </programme>
+  <programme start="20210107210000 -0600" stop="20210107231700 -0600" channel="Golden">
+    <title lang="es">La teoría del todo</title>
+  </programme>
+  <programme start="20210107231700 -0600" stop="20210108011400 -0600" channel="Golden">
+    <title lang="es">Si Decido Quedarme</title>
+  </programme>
+  <programme start="20210106005500 -0600" stop="20210106022000 -0600" channel="HBO Signature">
+    <title lang="es">Complejo de Dios</title>
+  </programme>
+  <programme start="20210106022000 -0600" stop="20210106041000 -0600" channel="HBO Signature">
+    <title lang="es">Paterno</title>
+  </programme>
+  <programme start="20210106041000 -0600" stop="20210106054000 -0600" channel="HBO Signature">
+    <title lang="es">Cuál es mi nombre Muhammad A</title>
+  </programme>
+  <programme start="20210106054000 -0600" stop="20210106070500 -0600" channel="HBO Signature">
+    <title lang="es">Cuál es mi nombre Muhammad A</title>
+  </programme>
+  <programme start="20210106070500 -0600" stop="20210106092200 -0600" channel="HBO Signature">
+    <title lang="es">El Mago De Las Mentiras</title>
+  </programme>
+  <programme start="20210106092200 -0600" stop="20210106111500 -0600" channel="HBO Signature">
+    <title lang="es">Mala educación</title>
+  </programme>
+  <programme start="20210106111500 -0600" stop="20210106124000 -0600" channel="HBO Signature">
+    <title lang="es">¿Quién mató a Garrett</title>
+  </programme>
+  <programme start="20210106124000 -0600" stop="20210106143000 -0600" channel="HBO Signature">
+    <title lang="es">¿Quién mató a Garrett</title>
+  </programme>
+  <programme start="20210106143000 -0600" stop="20210106153500 -0600" channel="HBO Signature">
+    <title lang="es">The Third Day</title>
+  </programme>
+  <programme start="20210106153500 -0600" stop="20210106164000 -0600" channel="HBO Signature">
+    <title lang="es">The Third Day</title>
+  </programme>
+  <programme start="20210106164000 -0600" stop="20210106174500 -0600" channel="HBO Signature">
+    <title lang="es">The Third Day</title>
+  </programme>
+  <programme start="20210106174500 -0600" stop="20210106185000 -0600" channel="HBO Signature">
+    <title lang="es">The Third Day</title>
+  </programme>
+  <programme start="20210106185000 -0600" stop="20210106195500 -0600" channel="HBO Signature">
+    <title lang="es">The Third Day</title>
+  </programme>
+  <programme start="20210106195500 -0600" stop="20210106210000 -0600" channel="HBO Signature">
+    <title lang="es">The Third Day</title>
+  </programme>
+  <programme start="20210106210000 -0600" stop="20210106220000 -0600" channel="HBO Signature">
+    <title lang="es">Industry</title>
+  </programme>
+  <programme start="20210106220000 -0600" stop="20210106230000 -0600" channel="HBO Signature">
+    <title lang="es">Industry</title>
+  </programme>
+  <programme start="20210106230000 -0600" stop="20210107010500 -0600" channel="HBO Signature">
+    <title lang="es">Dejando Neverland (Parte 1)</title>
+  </programme>
+  <programme start="20210107230000 -0600" stop="20210108010500 -0600" channel="HBO Signature">
+    <title lang="es">Dejando Neverland (Parte 1)</title>
+  </programme>
+  <programme start="20210108010500 -0600" stop="20210108031000 -0600" channel="HBO Signature">
+    <title lang="es">Dejando Neverland (Parte 2)</title>
+  </programme>
+  <programme start="20210108031000 -0600" stop="20210108050000 -0600" channel="HBO Signature">
+    <title lang="es">Mi cena con Hervé</title>
+  </programme>
+  <programme start="20210108050000 -0600" stop="20210108064500 -0600" channel="HBO Signature">
+    <title lang="es">Brexit</title>
+  </programme>
+  <programme start="20210108064500 -0600" stop="20210108085000 -0600" channel="HBO Signature">
+    <title lang="es">La conspiración</title>
+  </programme>
+  <programme start="20210108085000 -0600" stop="20210108111000 -0600" channel="HBO Signature">
+    <title lang="es">No Conoces A Jack</title>
+  </programme>
+  <programme start="20210108111000 -0600" stop="20210108124500 -0600" channel="HBO Signature">
+    <title lang="es">Stockton Siempre presente</title>
+  </programme>
+  <programme start="20210108124500 -0600" stop="20210108134800 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108134800 -0600" stop="20210108144900 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108144900 -0600" stop="20210108154900 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108154900 -0600" stop="20210108165200 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108165200 -0600" stop="20210108175100 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108175100 -0600" stop="20210108185000 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108185000 -0600" stop="20210108200000 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108200000 -0600" stop="20210108210000 -0600" channel="HBO Signature">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20210108210000 -0600" stop="20210108220000 -0600" channel="HBO Signature">
+    <title lang="es">Industry</title>
+  </programme>
+  <programme start="20210108220000 -0600" stop="20210108230000 -0600" channel="HBO Signature">
+    <title lang="es">Industry</title>
+  </programme>
+  <programme start="20210108230000 -0600" stop="20210109004000 -0600" channel="HBO Signature">
+    <title lang="es">Transhood Crecer transgénero</title>
   </programme>
 </tv>
