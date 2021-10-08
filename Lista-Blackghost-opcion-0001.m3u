@@ -383,14 +383,10 @@ https://blackghost.live/play/totalp1-106.php?c=2091&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Lista MX1", FRANCE 24
 https://blackghost.live/play/totalp1-106.php?c=2402&p=3&k=black&f=.m3u8
 
-
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 01", BLACKGHOST 01
 https://blackghost.live/TV&f=.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 01",  http://paypal.me/blackghost
 https://blackghost.live/TV&f=.ts|User-agent=XCIPTV-v5.0.1
-
 
 
 #EXTINF:-1 group-title="Lista 01", DISCOVERY THEATER
