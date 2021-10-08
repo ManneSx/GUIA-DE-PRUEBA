@@ -384,3 +384,454 @@ https://blackghost.live/play/totalp1-106.php?c=2091&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-106.php?c=2402&p=3&k=black&f=.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista 01", BLACKGHOST 01
+https://blackghost.live/TV&f=.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 01",  http://paypal.me/blackghost
+https://blackghost.live/TV&f=.ts|User-agent=XCIPTV-v5.0.1
+
+
+
+#EXTINF:-1 group-title="Lista 01", DISCOVERY THEATER
+https://blackghost.live/play/zutv-106.php?c=54584.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ESPN 1
+https://blackghost.live/play/zutv-106.php?c=41499.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ESPN 2
+https://blackghost.live/play/zutv-106.php?c=41501.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ESPN EXTRA
+https://blackghost.live/play/zutv-106.php?c=41500.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", UNICABLE
+https://blackghost.live/play/zutv-106.php?c=41527.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ANTENA 3
+https://blackghost.live/play/zutv-106.php?c=54588.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  MULTIMEDIOS MTY
+https://blackghost.live/play/zutv-106.php?c=41502.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", AMC
+https://blackghost.live/play/zutv-106.php?c=41505.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", CINE LATINO
+https://blackghost.live/play/zutv-106.php?c=41509.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", CINECANAL
+https://blackghost.live/play/zutv-106.php?c=41507.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", CINEMAX
+https://blackghost.live/play/zutv-106.php?c=41506.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX ACCION
+https://blackghost.live/play/zutv-106.php?c=41516.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX CINEMA
+https://blackghost.live/play/zutv-106.php?c=41517.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX FAMILY
+https://blackghost.live/play/zutv-106.php?c=41017.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX FAMYLY
+https://blackghost.live/play/zutv-106.php?c=41519.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX MOVIES
+https://blackghost.live/play/zutv-106.php?c=41520.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX SERIES
+https://blackghost.live/play/zutv-106.php?c=41521.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", GOLDEN PREMIER
+https://blackghost.live/play/zutv-106.php?c=41515.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", HBO 1
+https://blackghost.live/play/zutv-106.php?c=41522.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", HBO 2
+https://blackghost.live/play/zutv-106.php?c=41015.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", HBO FAMILY
+https://blackghost.live/play/zutv-106.php?c=41016.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", HBO Plus
+https://blackghost.live/play/zutv-106.php?c=41523.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", HBO XTREME
+https://blackghost.live/play/zutv-106.php?c=41018.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", MC
+https://blackghost.live/play/zutv-106.php?c=41531.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", MULTIPREMIER
+https://blackghost.live/play/zutv-106.php?c=41532.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", PARAMOOUNT
+https://blackghost.live/play/zutv-106.php?c=41511.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", TNT
+https://blackghost.live/play/zutv-106.php?c=41014.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", CINE -FOX CLASSICS
+https://blackghost.live/play/zutv-106.php?c=41518.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", CINE -SPACE MX
+https://blackghost.live/play/zutv-106.php?c=41027.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ANIMAL PLANET
+https://blackghost.live/play/zutv-106.php?c=41000.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", DISCOVERY CHANNEL
+https://blackghost.live/play/zutv-106.php?c=40998.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", DISCOVERY H&H
+https://blackghost.live/play/zutv-106.php?c=54581.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", DISCOVERY ID
+https://blackghost.live/play/zutv-106.php?c=54582.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", DISCOVERY TLC
+https://blackghost.live/play/zutv-106.php?c=54583.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", DISCOVERY TURBO
+https://blackghost.live/play/zutv-106.php?c=54580.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", H2
+https://blackghost.live/play/zutv-106.php?c=54585.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", HISTORY CHANNEL
+https://blackghost.live/play/zutv-106.php?c=40996.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", NATIONAL GEOGRAPHIC
+https://blackghost.live/play/zutv-106.php?c=40997.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", NET GEO
+https://blackghost.live/play/zutv-106.php?c=41025.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", BEIN SPORT
+https://blackghost.live/play/zutv-106.php?c=54590.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", CLARO SPORT
+https://blackghost.live/play/zutv-106.php?c=41011.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ESPN
+https://blackghost.live/play/zutv-106.php?c=41010.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ESPN 2
+https://blackghost.live/play/zutv-106.php?c=41009.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ESPN 3
+https://blackghost.live/play/zutv-106.php?c=41008.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ESPN DEPORTES
+https://blackghost.live/play/zutv-106.php?c=41023.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FORMULA 1 SKY
+https://blackghost.live/play/zutv-106.php?c=54591.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX SPORT 1
+https://blackghost.live/play/zutv-106.php?c=54593.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX SPORT 2
+https://blackghost.live/play/zutv-106.php?c=54594.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FOX SPORT 3
+https://blackghost.live/play/zutv-106.php?c=41498.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", MLB
+https://blackghost.live/play/zutv-106.php?c=41494.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", NBA
+https://blackghost.live/play/zutv-106.php?c=41495.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", REALMADRID
+https://blackghost.live/play/zutv-106.php?c=41497.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", GALAVISION
+https://blackghost.live/play/zutv-106.php?c=41529.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", LIFETIME
+https://blackghost.live/play/zutv-106.php?c=41526.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Telemundo PR
+https://blackghost.live/play/zutv-106.php?c=41533.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", UNIMAS
+https://blackghost.live/play/zutv-106.php?c=41528.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ATRES
+https://blackghost.live/play/zutv-106.php?c=41047.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", COMEDY CENTRAL
+https://blackghost.live/play/zutv-106.php?c=40995.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", E!
+https://blackghost.live/play/zutv-106.php?c=40994.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", HOLA TV
+https://blackghost.live/play/zutv-106.php?c=41012.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ISAT
+https://blackghost.live/play/zutv-106.php?c=41510.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", START LIFE
+https://blackghost.live/play/zutv-106.php?c=41512.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", UNIVISION 
+https://blackghost.live/play/zutv-106.php?c=40980.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", ENTRETE -PASIONES
+https://blackghost.live/play/zutv-106.php?c=41513.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - BABY TV
+https://blackghost.live/play/zutv-106.php?c=41019.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - BOORMERANG MX
+https://blackghost.live/play/zutv-106.php?c=41020.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - DISCOVERY KIDS
+https://blackghost.live/play/zutv-106.php?c=41002.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - DISNEY CHANNEL
+https://blackghost.live/play/zutv-106.php?c=41006.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - DISNEY JUNIOR
+https://blackghost.live/play/zutv-106.php?c=41003.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - DISNEY XD
+https://blackghost.live/play/zutv-106.php?c=41005.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - NET GEO KIDS
+https://blackghost.live/play/zutv-106.php?c=41022.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - NICK JR
+https://blackghost.live/play/zutv-106.php?c=41001.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - NICKELODEON
+https://blackghost.live/play/zutv-106.php?c=41004.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", KIDS - TOONCAST 
+https://blackghost.live/play/zutv-106.php?c=41535.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  AZTECA 7
+https://blackghost.live/play/zutv-106.php?c=41048.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  AZTECA UNO
+https://blackghost.live/play/zutv-106.php?c=41524.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  CANAL 22
+https://blackghost.live/play/zutv-106.php?c=41051.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  CANAL 5
+https://blackghost.live/play/zutv-106.php?c=54586.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  IMAGEN
+https://blackghost.live/play/zutv-106.php?c=41049.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  LAS ESTRELLAS
+https://blackghost.live/play/zutv-106.php?c=54587.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01",  ONCE TV MX
+https://blackghost.live/play/zutv-106.php?c=41053.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", MUSICA - MTV 
+https://blackghost.live/play/zutv-106.php?c=41029.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", MUSICA - VH1
+https://blackghost.live/play/zutv-106.php?c=41030.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", MUSICA -MTV HITLIST
+https://blackghost.live/play/zutv-106.php?c=41028.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", MUSICA -VIDEO ROLA
+https://blackghost.live/play/zutv-106.php?c=41031.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", NOTICIA - CNN
+https://blackghost.live/play/zutv-106.php?c=41036.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", NOTICIA - DW
+https://blackghost.live/play/zutv-106.php?c=41504.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", NOTICIA - EL FINANCIERO
+https://blackghost.live/play/zutv-106.php?c=41503.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - A&E LATINO
+https://blackghost.live/play/zutv-106.php?c=40983.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - AXN
+https://blackghost.live/play/zutv-106.php?c=40988.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - CANAL FOX
+https://blackghost.live/play/zutv-106.php?c=40981.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - FOX LIFE
+https://blackghost.live/play/zutv-106.php?c=40984.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - FX 
+https://blackghost.live/play/zutv-106.php?c=40982.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - SONY
+https://blackghost.live/play/zutv-106.php?c=40991.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - STUDIO UNIVERSAL
+https://blackghost.live/play/zutv-106.php?c=40992.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - SYFY
+https://blackghost.live/play/zutv-106.php?c=40986.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - TBS
+https://blackghost.live/play/zutv-106.php?c=40985.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - TNT SERIES
+https://blackghost.live/play/zutv-106.php?c=40993.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - UNIVERSAL
+https://blackghost.live/play/zutv-106.php?c=40989.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE - Warner
+https://blackghost.live/play/zutv-106.php?c=40990.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SERIE -FXM
+https://blackghost.live/play/zutv-106.php?c=41508.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", USA - BRAVO TV
+https://blackghost.live/play/zutv-106.php?c=41035.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", USA - NBCSN
+https://blackghost.live/play/zutv-106.php?c=54592.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", USA - UNIVERSO
+https://blackghost.live/play/zutv-106.php?c=54589.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", USA -DISCOVERY FAMILY
+https://blackghost.live/play/zutv-106.php?c=41034.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", USA -FOODN
+https://blackghost.live/play/zutv-106.php?c=41033.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SALSA NA MA!
+https://blackghost.live/play/zutv-106.php?c=26025.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", FORO TV
+https://blackghost.live/play/zutv-106.php?c=65388.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", COL:  Rcn HD
+https://blackghost.live/play/zutv-106.php?c=26709.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", COL: Caracol HD
+https://blackghost.live/play/zutv-106.php?c=26717.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", PR: Univision Puerto Rico
+https://blackghost.live/play/zutv-106.php?c=25980.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", PR: Wapa
+https://blackghost.live/play/zutv-106.php?c=25981.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Wapa TV
+https://blackghost.live/play/zutv-106.php?c=40973.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", WAPA DEPORTES
+https://blackghost.live/play/zutv-106.php?c=41496.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", UNIVISION PR
+https://blackghost.live/play/zutv-106.php?c=41534.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: TUSHY RAW
+https://blackghost.live/play/zutv-106.php?c=1301.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: VIXEN
+https://blackghost.live/play/zutv-106.php?c=1302.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: MOFOS
+https://blackghost.live/play/zutv-106.php?c=1303.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXXX: MILF 2
+https://blackghost.live/play/zutv-106.php?c=1304.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: MIAKHALIFA 
+https://blackghost.live/play/zutv-106.php?c=1305.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX:Fetich 2
+https://blackghost.live/play/zutv-106.php?c=1308.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: brazzers
+https://blackghost.live/play/zutv-106.php?c=1309.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: BLACK RAW
+https://blackghost.live/play/zutv-106.php?c=1310.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: Bigass 2
+https://blackghost.live/play/zutv-106.php?c=1312.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", LATINA X2
+https://blackghost.live/play/zutv-106.php?c=8106.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", VENUS sd*
+https://blackghost.live/play/zutv-106.php?c=12065.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SD DMX:Venus
+https://blackghost.live/play/zutv-106.php?c=27084.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: FUCK TOOLS HD 
+https://blackghost.live/play/zutv-106.php?c=27561.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", RealExtreme
+https://blackghost.live/play/zutv-106.php?c=41038.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Brazzers TV
+https://blackghost.live/play/zutv-106.php?c=41039.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", TEN
+https://blackghost.live/play/zutv-106.php?c=41040.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", RK
+https://blackghost.live/play/zutv-106.php?c=41041.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Hustler TV
+https://blackghost.live/play/zutv-106.php?c=41042.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XTSY
+https://blackghost.live/play/zutv-106.php?c=41043.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Playboy TV
+https://blackghost.live/play/zutv-106.php?c=41044.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Venus
+https://blackghost.live/play/zutv-106.php?c=41045.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Sextreme
+https://blackghost.live/play/zutv-106.php?c=41046.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Bang Bros HD
+https://blackghost.live/play/zutv-106.php?c=41324.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", XXX: blowjob HD
+https://blackghost.live/play/zutv-106.php?c=41325.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", Miami TV
+https://blackghost.live/play/zutv-106.php?c=43439.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  CAILLOU
+https://blackghost.live/play/zutv-106.php?c=65403.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  CORAJE EL PERRO COBARDE
+https://blackghost.live/play/zutv-106.php?c=65404.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  CUENTRO GREEM
+https://blackghost.live/play/zutv-106.php?c=65405.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  DINOSAURIOS 1991
+https://blackghost.live/play/zutv-106.php?c=65406.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  DRAGON BALL 1984
+https://blackghost.live/play/zutv-106.php?c=65407.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  LOS SIMPSON
+https://blackghost.live/play/zutv-106.php?c=65408.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  SOUTH PARK
+https://blackghost.live/play/zutv-106.php?c=65409.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7  THE WALKING DEAD
+https://blackghost.live/play/zutv-106.php?c=65410.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 ALF
+https://blackghost.live/play/zutv-106.php?c=65411.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 AÑOS MARAVILLOSOS 1988
+https://blackghost.live/play/zutv-106.php?c=65412.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 BARNY Y SUS AMIGOS
+https://blackghost.live/play/zutv-106.php?c=65413.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 BATMAN 1966 RETRO
+https://blackghost.live/play/zutv-106.php?c=65414.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 BATMAN ANIMADO 1992
+https://blackghost.live/play/zutv-106.php?c=65415.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 BOB ESPONJA
+https://blackghost.live/play/zutv-106.php?c=65416.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 BREAKING  BAD
+https://blackghost.live/play/zutv-106.php?c=65417.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 CABALLEROS DEL ZODIACO
+https://blackghost.live/play/zutv-106.php?c=65418.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 CANTINFLAS
+https://blackghost.live/play/zutv-106.php?c=65419.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 CASA DE LOS DIBUJOS
+https://blackghost.live/play/zutv-106.php?c=65420.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 CASO CERRADO
+https://blackghost.live/play/zutv-106.php?c=65421.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 CSI: MIAMI
+https://blackghost.live/play/zutv-106.php?c=65422.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Death note
+https://blackghost.live/play/zutv-106.php?c=65423.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+https://blackghost.live/play/zutv-106.php?c=65424.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Dog el cazarrecompensas
+https://blackghost.live/play/zutv-106.php?c=65425.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 DON GATO Y SU PANDILLA
+https://blackghost.live/play/zutv-106.php?c=65426.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 DRAGON BALL GT 1996
+https://blackghost.live/play/zutv-106.php?c=65427.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 DRAGON BALL SUPER
+https://blackghost.live/play/zutv-106.php?c=65428.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 DRAGON BALL Z 1989
+https://blackghost.live/play/zutv-106.php?c=65429.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 El Avispón Verde
+https://blackghost.live/play/zutv-106.php?c=65430.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 EL CHAPULIN COLORADO
+https://blackghost.live/play/zutv-106.php?c=65431.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 EL CHAVO DEL 8
+https://blackghost.live/play/zutv-106.php?c=65432.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 EL CHEMA
+https://blackghost.live/play/zutv-106.php?c=65433.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 EL COYOTE Y CORRE CAMINOS
+https://blackghost.live/play/zutv-106.php?c=65434.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 EL PATRON DEL MAL
+https://blackghost.live/play/zutv-106.php?c=65435.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 EL SEÑOR DE LOS CIELOS
+https://blackghost.live/play/zutv-106.php?c=65436.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 FUTURAMA 1999
+https://blackghost.live/play/zutv-106.php?c=65437.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 HAPPY TREE FRIENDS
+https://blackghost.live/play/zutv-106.php?c=65438.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 He-Man
+https://blackghost.live/play/zutv-106.php?c=65439.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 HÉROES EN PIJAMAS
+https://blackghost.live/play/zutv-106.php?c=65440.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 JUEGO DE TRONOS
+https://blackghost.live/play/zutv-106.php?c=65441.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LA CASA DE PAPEL
+https://blackghost.live/play/zutv-106.php?c=65442.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LA FAMILIA MONSTERS 1964
+https://blackghost.live/play/zutv-106.php?c=65443.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LA HORA PICO
+https://blackghost.live/play/zutv-106.php?c=65444.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LA HORMIGA TOMICA
+https://blackghost.live/play/zutv-106.php?c=65445.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LA PANTERA ROSA
+https://blackghost.live/play/zutv-106.php?c=65446.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LA RISA EN VACIONES
+https://blackghost.live/play/zutv-106.php?c=65447.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LA ROSA DE GUADALUPE
+https://blackghost.live/play/zutv-106.php?c=65448.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LAZY TOWN
+https://blackghost.live/play/zutv-106.php?c=65449.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LE TEMES ALA OSCURIDAD
+https://blackghost.live/play/zutv-106.php?c=65450.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LOS LOCOS ADDAMS
+https://blackghost.live/play/zutv-106.php?c=65451.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LOS PICA PIEDRAS
+https://blackghost.live/play/zutv-106.php?c=65452.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 LUIS MIGUEL LA SERIE 2018
+https://blackghost.live/play/zutv-106.php?c=65453.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Malcolm in the middle 2000
+https://blackghost.live/play/zutv-106.php?c=65454.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 MasterChef PLUTO TV
+https://blackghost.live/play/zutv-106.php?c=65455.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Mazinger Z
+https://blackghost.live/play/zutv-106.php?c=65456.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 MR BEAN
+https://blackghost.live/play/zutv-106.php?c=65457.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Naruto
+https://blackghost.live/play/zutv-106.php?c=65458.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Palazuelos Mi Rey |
+https://blackghost.live/play/zutv-106.php?c=65459.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Peliculas de terror
+https://blackghost.live/play/zutv-106.php?c=65460.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 PELICULAS ESTRENOS 2018
+https://blackghost.live/play/zutv-106.php?c=65461.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 PEPPA PIG
+https://blackghost.live/play/zutv-106.php?c=65462.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 PINKY y CEREBRO
+https://blackghost.live/play/zutv-106.php?c=65463.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Pokémon
+https://blackghost.live/play/zutv-106.php?c=65464.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 POWER RANGERS
+https://blackghost.live/play/zutv-106.php?c=65465.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Ranma  -½
+https://blackghost.live/play/zutv-106.php?c=65466.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 ROBOTECH
+https://blackghost.live/play/zutv-106.php?c=65467.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 SAILOR MOON
+https://blackghost.live/play/zutv-106.php?c=65468.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Shark Tank México TEP 1
+https://blackghost.live/play/zutv-106.php?c=65469.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Shark Tank México TEP 2
+https://blackghost.live/play/zutv-106.php?c=65470.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 SHERA
+https://blackghost.live/play/zutv-106.php?c=65471.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 SMALLVILLE
+https://blackghost.live/play/zutv-106.php?c=65472.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 SPIDER-MAN
+https://blackghost.live/play/zutv-106.php?c=65473.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 STRANGER THINGS
+https://blackghost.live/play/zutv-106.php?c=65474.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 SUPER CAMPEONES
+https://blackghost.live/play/zutv-106.php?c=65475.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 THUNDERCAST
+https://blackghost.live/play/zutv-106.php?c=65476.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 Wipeout
+https://blackghost.live/play/zutv-106.php?c=65477.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7 XMEN ANIME
+https://blackghost.live/play/zutv-106.php?c=65478.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7Lucha Libre AAA
+https://blackghost.live/play/zutv-106.php?c=65479.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", 24/7Lucha Libre AAA Worldwide*
+https://blackghost.live/play/zutv-106.php?c=65480.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SIMPSONS TEM27-30
+https://blackghost.live/play/zutv-106.php?c=65481.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SIMPSONS TEMP 18-21
+https://blackghost.live/play/zutv-106.php?c=65482.ts|User-agent=XCIPTV-v5.0.1
+#EXTINF:-1 group-title="Lista 01", SIMPSONS TEMP22-26
+https://blackghost.live/play/zutv-106.php?c=65483.ts|User-agent=XCIPTV-v5.0.1
